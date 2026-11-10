@@ -71,14 +71,78 @@
     "classes": [],
     "art": "art/CFM_026.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-143_S.psd:d2ed73de903be134ca65472552b68bce",
     "goldenMaterial": "CFM_026_PremiumCard.mat:f5d2d3c1269c7824ca0bb3b1e811a562",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "숨겨둔 보관함",
+      "type": "SPELL",
+      "cardClass": "HUNTER",
+      "classes": [],
+      "rarity": "RARE",
+      "collectible": true,
+      "cost": 2,
+      "text": "<b>비밀:</b> 상대편이 하수인을 낸 후에, 내 손에 있는 무작위 하수인에게 +2/+2를 부여합니다.",
+      "nativeTags": [
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 2
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 3
+        },
+        {
+          "id": 201,
+          "name": "진영",
+          "value": 3
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 5
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 3
+        },
+        {
+          "id": 219,
+          "name": "비밀",
+          "value": 1
+        },
+        {
+          "id": 251,
+          "name": "게임 태그 251",
+          "value": 3
+        },
+        {
+          "id": 268,
+          "name": "게임 태그 268",
+          "value": 2
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "spellSchool": ""
+    },
+    "patches": [],
+    "knownEvents": []
   }
 }

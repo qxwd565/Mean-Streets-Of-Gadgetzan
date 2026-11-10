@@ -71,14 +71,135 @@
     "classes": [],
     "art": "art/CFM_061.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-087_M.psd:80cdb42f600918b4e9c04fa01b2fd0cd",
     "goldenMaterial": "CFM_061_PremiumCard.mat:0b39b1d54df69f44890e8cae90b0fad3",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "진위 물예언자",
+      "type": "MINION",
+      "cardClass": "SHAMAN",
+      "classes": [],
+      "rarity": "RARE",
+      "collectible": true,
+      "cost": 4,
+      "text": "<b>전투의 함성:</b><br></br>생명력을 #6 회복시킵니다.<br></br><b>과부하:</b> (1)",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 6
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 3
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 4
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 8
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 3
+        },
+        {
+          "id": 215,
+          "name": "과부하",
+          "value": 1
+        },
+        {
+          "id": 218,
+          "name": "전투의 함성",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "attack": 3,
+      "health": 6,
+      "races": [],
+      "race": ""
+    },
+    "patches": [
+      {
+        "date": "2023-08-23",
+        "changes": {
+          "attack": 4,
+          "nativeTags": [
+            {
+              "id": 45,
+              "name": "생명력",
+              "value": 6
+            },
+            {
+              "id": 47,
+              "name": "공격력",
+              "value": 4
+            },
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 4
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 8
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 4
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 3
+            },
+            {
+              "id": 215,
+              "name": "과부하",
+              "value": 1
+            },
+            {
+              "id": 218,
+              "name": "전투의 함성",
+              "value": 1
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            }
+          ]
+        }
+      }
+    ],
+    "knownEvents": []
   }
 }

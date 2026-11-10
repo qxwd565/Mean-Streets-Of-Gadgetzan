@@ -10,7 +10,7 @@
     "rarity": "COMMON",
     "collectible": true,
     "cost": 3,
-    "text": "<b>주문 공격력 +1</b>",
+    "text": "<b>주문 공격력 +2</b>",
     "attack": 0,
     "health": 7,
     "durability": 0,
@@ -73,8 +73,82 @@
     "classes": [],
     "art": "art/CFM_039.png",
     "releasedAt": "2016-12-02",
+    "releaseStatus": "verified"
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-104_M.psd:df779fd03a98de04ea9fe01c8f9e4390",
+    "goldenMaterial": "CFM_039_PremiumCard.mat:601a0adfd287fed40bfcfbace071818a",
+    "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
     "releaseStatus": "verified",
-    "initialSpecStatus": "partially-verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "길거리 요술쟁이",
+      "type": "MINION",
+      "cardClass": "NEUTRAL",
+      "classes": [],
+      "rarity": "COMMON",
+      "collectible": true,
+      "cost": 3,
+      "text": "<b>주문 공격력 +1</b>",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 7
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 3
+        },
+        {
+          "id": 192,
+          "name": "주문 공격력",
+          "value": 1
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 12
+        },
+        {
+          "id": 200,
+          "name": "종족",
+          "value": 15
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        },
+        {
+          "id": 1965,
+          "name": "임프",
+          "value": 1
+        }
+      ],
+      "attack": 0,
+      "health": 7,
+      "races": [
+        "DEMON"
+      ],
+      "race": "악마"
+    },
     "patches": [
       {
         "date": "2023-08-23",
@@ -82,12 +156,7 @@
           "text": "<b>주문 공격력 +2</b>"
         }
       }
-    ]
-  },
-  "artworkProvenance": {
-    "source": "installed Hearthstone native assets",
-    "portrait": "HS9-104_M.psd:df779fd03a98de04ea9fe01c8f9e4390",
-    "goldenMaterial": "CFM_039_PremiumCard.mat:601a0adfd287fed40bfcfbace071818a",
-    "goldenAnimation": ""
+    ],
+    "knownEvents": []
   }
 }
