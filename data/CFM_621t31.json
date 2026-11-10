@@ -1,1 +1,58 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_621t31","dbfId":41627,"name":"암흑 기름","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":10,"text":"무작위 악마 셋을 내 손으로 가져옵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS9-212g_S.psd:f3e9f989823fd0a47b226aeaa10dcc5d","set":"GANGS","nativeTags":[{"id":2,"name":"효과 수치 1","value":10},{"id":48,"name":"마나 비용","value":10},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/CFM_621t31.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-212g_S.psd:f3e9f989823fd0a47b226aeaa10dcc5d","goldenMaterial":"CFM_621t28_PremiumCard.mat:84388ad383fd17e41bec0bed78b4e90e","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_621t31",
+    "dbfId": 41627,
+    "name": "암흑 기름",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 10,
+    "text": "무작위 악마 셋을 내 손으로 가져옵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS9-212g_S.psd:f3e9f989823fd0a47b226aeaa10dcc5d",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 10
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 10
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_621t31.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "estimated",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-212g_S.psd:f3e9f989823fd0a47b226aeaa10dcc5d",
+    "goldenMaterial": "CFM_621t28_PremiumCard.mat:84388ad383fd17e41bec0bed78b4e90e",
+    "goldenAnimation": ""
+  }
+}

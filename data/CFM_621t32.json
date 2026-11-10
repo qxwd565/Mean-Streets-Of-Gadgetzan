@@ -1,1 +1,58 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_621t32","dbfId":41628,"name":"황금가시","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":10,"text":"내 하수인들에게 생명력을 +6 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS9-212d_S.psd:39f93f98f6a962f4ab7a9506c95f1576","set":"GANGS","nativeTags":[{"id":2,"name":"효과 수치 1","value":7},{"id":48,"name":"마나 비용","value":10},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/CFM_621t32.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-212d_S.psd:39f93f98f6a962f4ab7a9506c95f1576","goldenMaterial":"CFM_621t28_PremiumCard.mat:ffc313c18f7eb5c4fbd2d904d90182ff","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_621t32",
+    "dbfId": 41628,
+    "name": "황금가시",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 10,
+    "text": "내 하수인들에게 생명력을 +6 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS9-212d_S.psd:39f93f98f6a962f4ab7a9506c95f1576",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 7
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 10
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_621t32.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "estimated",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-212d_S.psd:39f93f98f6a962f4ab7a9506c95f1576",
+    "goldenMaterial": "CFM_621t28_PremiumCard.mat:ffc313c18f7eb5c4fbd2d904d90182ff",
+    "goldenAnimation": ""
+  }
+}

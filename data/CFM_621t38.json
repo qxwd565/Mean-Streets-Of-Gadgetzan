@@ -1,1 +1,58 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_621t38","dbfId":42069,"name":"불사의 영액","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":5,"text":"이번 게임에서 죽은 무작위 아군 하수인 둘을 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS9-211j_S.psd:440f66c159cf7844b95814867aa26e5e","set":"GANGS","nativeTags":[{"id":2,"name":"효과 수치 1","value":4},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/CFM_621t38.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-211j_S.psd:440f66c159cf7844b95814867aa26e5e","goldenMaterial":"CFM_621t20_PremiumCard.mat:c8ae45c8b5fe72a429548adaf10b06cb","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_621t38",
+    "dbfId": 42069,
+    "name": "불사의 영액",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 5,
+    "text": "이번 게임에서 죽은 무작위 아군 하수인 둘을 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS9-211j_S.psd:440f66c159cf7844b95814867aa26e5e",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_621t38.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "estimated",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-211j_S.psd:440f66c159cf7844b95814867aa26e5e",
+    "goldenMaterial": "CFM_621t20_PremiumCard.mat:c8ae45c8b5fe72a429548adaf10b06cb",
+    "goldenAnimation": ""
+  }
+}
