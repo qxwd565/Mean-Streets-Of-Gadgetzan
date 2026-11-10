@@ -1,1 +1,58 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_621t11","dbfId":41591,"name":"하급 물약","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":1,"text":"비용이 1인 주문을 만듭니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS9-210c_S.psd:9f0be17accfb75641b93c65ae6e280a5","set":"GANGS","nativeTags":[{"id":2,"name":"효과 수치 1","value":1087},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/CFM_621t11.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-210c_S.psd:9f0be17accfb75641b93c65ae6e280a5","goldenMaterial":"CFM_621t10_PremiumCard.mat:77e87f7389fc7324eab6b03d464b54ea","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_621t11",
+    "dbfId": 41591,
+    "name": "하급 물약",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 1,
+    "text": "비용이 1인 주문을 만듭니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS9-210c_S.psd:9f0be17accfb75641b93c65ae6e280a5",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 1087
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_621t11.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "estimated",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-210c_S.psd:9f0be17accfb75641b93c65ae6e280a5",
+    "goldenMaterial": "CFM_621t10_PremiumCard.mat:77e87f7389fc7324eab6b03d464b54ea",
+    "goldenAnimation": ""
+  }
+}

@@ -1,1 +1,64 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_614","dbfId":40397,"name":"연꽃의 징표","type":"SPELL","cardClass":"DRUID","rarity":"COMMON","collectible":true,"cost":1,"text":"내 하수인들에게 +1/+1을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"조직의 일원들의 무릎에 유성 매직으로 새겨집니다.","spellSchool":"","portrait":"HS9-074_S.psd:dbba9fc3b75259246ab7f48081402ca6","set":"GANGS","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/CFM_614.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-074_S.psd:dbba9fc3b75259246ab7f48081402ca6","goldenMaterial":"CFM_614_PremiumCard.mat:188f7b7ef8ed9e8418aa0a656b4a3098","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_614",
+    "dbfId": 40397,
+    "name": "연꽃의 징표",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "내 하수인들에게 +1/+1을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "조직의 일원들의 무릎에 유성 매직으로 새겨집니다.",
+    "spellSchool": "",
+    "portrait": "HS9-074_S.psd:dbba9fc3b75259246ab7f48081402ca6",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_614.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-074_S.psd:dbba9fc3b75259246ab7f48081402ca6",
+    "goldenMaterial": "CFM_614_PremiumCard.mat:188f7b7ef8ed9e8418aa0a656b4a3098",
+    "goldenAnimation": ""
+  }
+}

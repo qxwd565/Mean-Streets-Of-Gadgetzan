@@ -1,1 +1,103 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_621","dbfId":40408,"name":"카자쿠스","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> 내 덱에 똑같은 카드가 없으면, 원하는 주문을 직접 만듭니다.","attack":3,"health":3,"durability":0,"armor":0,"flavor":"비밀결사의 불가사의한 두목인 카자쿠스는 <b>절대로</b> 용족이 아니며 <b>절대</b> 불법으로 물약을 거래하지 않습니다. 이에 반하는 공식 발표에는 법적으로 대응할 것이며 용숨결 물약이 관여될 수 있다는 점을 밝힙니다.","spellSchool":"","portrait":"HS9-059_M.psd:a55b1e364b01a174e9895b349d395756","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":476,"name":"복수 직업","value":296},{"id":484,"name":"비밀결사","value":1},{"id":2589,"name":"간판 카드 존재","value":1}],"races":[],"race":"","classes":["MAGE","PRIEST","WARLOCK"],"art":"art/CFM_621.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-059_M.psd:a55b1e364b01a174e9895b349d395756","goldenMaterial":"CFM_621_PremiumCard.mat:ebc50d6651e67ef46875e38e33a04b0f","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_621",
+    "dbfId": 40408,
+    "name": "카자쿠스",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 내 덱에 똑같은 카드가 없으면, 원하는 주문을 직접 만듭니다.",
+    "attack": 3,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "비밀결사의 불가사의한 두목인 카자쿠스는 <b>절대로</b> 용족이 아니며 <b>절대</b> 불법으로 물약을 거래하지 않습니다. 이에 반하는 공식 발표에는 법적으로 대응할 것이며 용숨결 물약이 관여될 수 있다는 점을 밝힙니다.",
+    "spellSchool": "",
+    "portrait": "HS9-059_M.psd:a55b1e364b01a174e9895b349d395756",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 296
+      },
+      {
+        "id": 484,
+        "name": "비밀결사",
+        "value": 1
+      },
+      {
+        "id": 2589,
+        "name": "간판 카드 존재",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "MAGE",
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "art": "art/CFM_621.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-059_M.psd:a55b1e364b01a174e9895b349d395756",
+    "goldenMaterial": "CFM_621_PremiumCard.mat:ebc50d6651e67ef46875e38e33a04b0f",
+    "goldenAnimation": ""
+  }
+}
