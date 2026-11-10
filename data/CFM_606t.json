@@ -50,29 +50,106 @@
         "value": 4
       }
     ],
-    "races": [],
-    "race": "",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
     "classes": [],
     "art": "art/CFM_606t.png",
-    "releasedAt": "2016-12-02",
-    "releaseStatus": "estimated",
-    "initialSpecStatus": "partially-verified",
-    "patches": [
-      {
-        "date": "2017-07-11",
-        "changes": {
-          "races": [
-            "ELEMENTAL"
-          ],
-          "race": "정령"
-        }
-      }
-    ]
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-213_M.psd:ef0aa6515aa2ca940acb81daef232873",
     "goldenMaterial": "CFM_606t_PremiumCard.mat:8d7a2f0db87b31a439ce9545b48b83f8",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": null,
+    "releaseStatus": "pending",
+    "initialSpecStatus": "pending-first-playable",
+    "initialSpec": null,
+    "patches": [],
+    "knownEvents": [
+      {
+        "date": "2017-07-11",
+        "before": {
+          "races": [],
+          "race": "",
+          "nativeTags": [
+            {
+              "id": 45,
+              "name": "생명력",
+              "value": 2
+            },
+            {
+              "id": 47,
+              "name": "공격력",
+              "value": 2
+            },
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 2
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 6
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 4
+            }
+          ]
+        },
+        "changes": {
+          "races": [
+            "ELEMENTAL"
+          ],
+          "race": "정령",
+          "nativeTags": [
+            {
+              "id": 45,
+              "name": "생명력",
+              "value": 2
+            },
+            {
+              "id": 47,
+              "name": "공격력",
+              "value": 2
+            },
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 2
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 6
+            },
+            {
+              "id": 200,
+              "name": "종족",
+              "value": 18
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 4
+            }
+          ]
+        },
+        "sourceUrls": [
+          "https://news.blizzard.com/ko-kr/article/20904301/2017-7-11",
+          "https://hearthstone.wiki.gg/wiki/Crystal"
+        ],
+        "origin": "additional-verified"
+      }
+    ]
   }
 }

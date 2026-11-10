@@ -16,7 +16,7 @@
     "durability": 0,
     "armor": 0,
     "flavor": "이 좋은 걸 마시지 않다니 미친 게 분명해요!",
-    "spellSchool": "",
+    "spellSchool": "SHADOW",
     "portrait": "HS9-205_S.psd:716e28939a419f040b652701d6a049f5",
     "set": "GANGS",
     "nativeTags": [
@@ -56,21 +56,97 @@
     "classes": [],
     "art": "art/CFM_603.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "partially-verified",
-    "patches": [
-      {
-        "date": "2021-03-26",
-        "changes": {
-          "spellSchool": "SHADOW"
-        }
-      }
-    ]
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-205_S.psd:716e28939a419f040b652701d6a049f5",
     "goldenMaterial": "CFM_603_PremiumCard.mat:099041d6a2d53ac4aaa9d4b9cfa910fd",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "광기의 물약",
+      "type": "SPELL",
+      "cardClass": "PRIEST",
+      "classes": [],
+      "rarity": "COMMON",
+      "collectible": true,
+      "cost": 1,
+      "text": "공격력이 2 이하인<br></br>적 하수인을 이번<br></br>턴에만 조종합니다.",
+      "nativeTags": [
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 1
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 6
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 5
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "spellSchool": ""
+    },
+    "patches": [
+      {
+        "date": "2021-03-26",
+        "changes": {
+          "spellSchool": "SHADOW",
+          "nativeTags": [
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 1
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 6
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 5
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 1
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            },
+            {
+              "id": 1635,
+              "name": "주문 속성",
+              "value": 6
+            }
+          ]
+        }
+      }
+    ],
+    "knownEvents": []
   }
 }

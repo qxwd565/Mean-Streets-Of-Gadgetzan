@@ -33,26 +33,28 @@
         "id": 202,
         "name": "카드 유형",
         "value": 5
-      },
-      {
-        "id": 441,
-        "name": "비취 골렘",
-        "value": 1
       }
     ],
     "races": [],
     "race": "",
     "classes": [],
     "art": "art/CFM_602a.png",
-    "releasedAt": "2016-12-02",
-    "releaseStatus": "estimated",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS17-092.psd:042288c00bc24382bfc1195e9f211036",
     "goldenMaterial": "CFM_602a_PremiumCard.mat:23e7ed76a48733849b75f1124e715c74",
     "goldenAnimation": "CFM_602a_PremiumCard.asset:0a50699fae156d24b98ebfcf05bba31c"
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": null,
+    "releaseStatus": "pending",
+    "initialSpecStatus": "pending-first-playable",
+    "initialSpec": null,
+    "patches": [],
+    "knownEvents": []
   }
 }

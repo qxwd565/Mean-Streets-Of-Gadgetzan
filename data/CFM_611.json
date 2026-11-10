@@ -16,7 +16,7 @@
     "durability": 0,
     "armor": 0,
     "flavor": "내 속을 부글부글 끓게 하는 게 뭔지 알아? 바로 혈폭풍 물약의 치솟는 가격이지!",
-    "spellSchool": "",
+    "spellSchool": "SHADOW",
     "portrait": "W16_a244_S.psd:fc0f22d628bd1aa408b5bc679cc48a53",
     "set": "GANGS",
     "nativeTags": [
@@ -56,21 +56,97 @@
     "classes": [],
     "art": "art/CFM_611.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "partially-verified",
-    "patches": [
-      {
-        "date": "2021-03-26",
-        "changes": {
-          "spellSchool": "SHADOW"
-        }
-      }
-    ]
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "W16_a244_S.psd:fc0f22d628bd1aa408b5bc679cc48a53",
     "goldenMaterial": "CFM_611_PremiumCard.mat:423038f2f5e1a74489eb267877893a2b",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "혈폭풍 물약",
+      "type": "SPELL",
+      "cardClass": "WARLOCK",
+      "classes": [],
+      "rarity": "RARE",
+      "collectible": true,
+      "cost": 3,
+      "text": "하수인에게 공격력을 +3 부여합니다. 대상이 악마면, 생명력도 +3 부여합니다.",
+      "nativeTags": [
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 3
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 9
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 5
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 3
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "spellSchool": ""
+    },
+    "patches": [
+      {
+        "date": "2021-03-26",
+        "changes": {
+          "spellSchool": "SHADOW",
+          "nativeTags": [
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 3
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 9
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 5
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 3
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            },
+            {
+              "id": 1635,
+              "name": "주문 속성",
+              "value": 6
+            }
+          ]
+        }
+      }
+    ],
+    "knownEvents": []
   }
 }
