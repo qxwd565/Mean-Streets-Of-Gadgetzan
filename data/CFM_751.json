@@ -73,14 +73,83 @@
     "classes": [],
     "art": "art/CFM_751.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-113_M.psd:798011ab7f787744892f352555c44ce5",
     "goldenMaterial": "CFM_751_PremiumCard.mat:ec80a7f8f37811f468c170fcec87be0f",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "난폭한 심연불악마",
+      "type": "MINION",
+      "cardClass": "WARLOCK",
+      "classes": [],
+      "rarity": "COMMON",
+      "collectible": true,
+      "cost": 7,
+      "text": "<b>전투의 함성:</b><br></br>다른 <b>모든</b> 캐릭터에게 피해를 3 줍니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 6
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 6
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 7
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 9
+        },
+        {
+          "id": 200,
+          "name": "종족",
+          "value": 15
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 1
+        },
+        {
+          "id": 218,
+          "name": "전투의 함성",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "attack": 6,
+      "health": 6,
+      "races": [
+        "DEMON"
+      ],
+      "race": "악마"
+    },
+    "patches": [],
+    "knownEvents": []
   }
 }

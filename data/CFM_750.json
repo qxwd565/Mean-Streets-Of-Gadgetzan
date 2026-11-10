@@ -78,14 +78,147 @@
     "classes": [],
     "art": "art/CFM_750.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-117_M.psd:b87ea9316eaa76f4ca924f1bd12013b9",
     "goldenMaterial": "CFM_750_PremiumCard.mat:ed9e1534161b4f6468367e2d565a0fcd",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "속박 풀린 크룰",
+      "type": "MINION",
+      "cardClass": "WARLOCK",
+      "classes": [],
+      "rarity": "LEGENDARY",
+      "collectible": true,
+      "cost": 9,
+      "text": "<b>전투의 함성:</b> 내 덱에<br></br>똑같은 카드가 없으면,<br></br>내 손에 있는 모든<br></br>악마를 소환합니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 9
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 7
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 9
+        },
+        {
+          "id": 114,
+          "name": "전설 속성",
+          "value": 1
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 9
+        },
+        {
+          "id": 200,
+          "name": "종족",
+          "value": 15
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 5
+        },
+        {
+          "id": 218,
+          "name": "전투의 함성",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "attack": 7,
+      "health": 9,
+      "races": [
+        "DEMON"
+      ],
+      "race": "악마"
+    },
+    "patches": [
+      {
+        "date": "2023-08-23",
+        "changes": {
+          "attack": 9,
+          "nativeTags": [
+            {
+              "id": 45,
+              "name": "생명력",
+              "value": 9
+            },
+            {
+              "id": 47,
+              "name": "공격력",
+              "value": 9
+            },
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 9
+            },
+            {
+              "id": 114,
+              "name": "전설 속성",
+              "value": 1
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 9
+            },
+            {
+              "id": 200,
+              "name": "종족",
+              "value": 15
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 4
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 5
+            },
+            {
+              "id": 218,
+              "name": "전투의 함성",
+              "value": 1
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            }
+          ]
+        }
+      }
+    ],
+    "knownEvents": []
   }
 }

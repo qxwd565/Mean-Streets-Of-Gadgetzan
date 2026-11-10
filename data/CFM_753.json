@@ -71,14 +71,136 @@
     "classes": [],
     "art": "art/CFM_753.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-142_M.psd:e954ca224b272814993e7d98c19082f0",
     "goldenMaterial": "CFM_753_PremiumCard.mat:993581a9e679d504ab19e7f48d7773ef",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "험악한 거리 만물상",
+      "type": "MINION",
+      "cardClass": "PALADIN",
+      "classes": [],
+      "rarity": "COMMON",
+      "collectible": true,
+      "cost": 2,
+      "text": "<b>전투의 함성</b>: 내 손에<br></br>있는 모든 하수인에게<br></br>+1/+1을 부여합니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 1
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 1
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 2
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 5
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 1
+        },
+        {
+          "id": 218,
+          "name": "전투의 함성",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        },
+        {
+          "id": 4533,
+          "name": "제작 결과 능력",
+          "value": 1
+        }
+      ],
+      "attack": 1,
+      "health": 1,
+      "races": [],
+      "race": ""
+    },
+    "patches": [
+      {
+        "date": "2023-04-05",
+        "changes": {
+          "attack": 2,
+          "health": 2,
+          "nativeTags": [
+            {
+              "id": 45,
+              "name": "생명력",
+              "value": 2
+            },
+            {
+              "id": 47,
+              "name": "공격력",
+              "value": 2
+            },
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 2
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 5
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 4
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 1
+            },
+            {
+              "id": 218,
+              "name": "전투의 함성",
+              "value": 1
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            },
+            {
+              "id": 4533,
+              "name": "제작 결과 능력",
+              "value": 1
+            }
+          ]
+        }
+      }
+    ],
+    "knownEvents": []
   }
 }

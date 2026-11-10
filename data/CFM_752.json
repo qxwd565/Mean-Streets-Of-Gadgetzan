@@ -26,11 +26,6 @@
         "value": 2
       },
       {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
         "id": 199,
         "name": "직업",
         "value": 10
@@ -56,14 +51,74 @@
     "classes": [],
     "art": "art/CFM_752.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-140_S.psd:04a46bdc466255f4fa75482623a95115",
     "goldenMaterial": "CFM_752_PremiumCard.mat:f691d053bd3dd304c9303c3ab503beef",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "도난당한 물품",
+      "type": "SPELL",
+      "cardClass": "WARRIOR",
+      "classes": [],
+      "rarity": "RARE",
+      "collectible": true,
+      "cost": 2,
+      "text": "내 손에 있는 무작위 <b>도발</b> 하수인에게 +3/+3을 부여합니다.",
+      "nativeTags": [
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 2
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 10
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 5
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 3
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "spellSchool": ""
+    },
+    "patches": [
+      {
+        "date": "2023-08-23",
+        "changes": {
+          "text": "<b>도발</b> 하수인을<br></br>뽑습니다. 그 하수인에게<br></br>+2/+2를 부여합니다."
+        }
+      }
+    ],
+    "knownEvents": [],
+    "tagReferences": {
+      "2016-12-02": [
+        {
+          "id": 190,
+          "name": "도발",
+          "value": 1
+        }
+      ]
+    }
   }
 }

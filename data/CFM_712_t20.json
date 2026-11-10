@@ -45,11 +45,6 @@
         "value": 4
       },
       {
-        "id": 441,
-        "name": "비취 골렘",
-        "value": 1
-      },
-      {
         "id": 2428,
         "name": "게임 태그 2428",
         "value": 1
@@ -59,15 +54,22 @@
     "race": "",
     "classes": [],
     "art": "art/CFM_712_t20.png",
-    "releasedAt": "2016-12-02",
-    "releaseStatus": "estimated",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-173d_M.psd:9a5ab19f4343aa04195619c764b0ba85",
     "goldenMaterial": "CFM_712_t20_PremiumCard.mat:d2c943d130bae0d4dbaa0b853660b08a",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": null,
+    "releaseStatus": "pending",
+    "initialSpecStatus": "pending-first-playable",
+    "initialSpec": null,
+    "patches": [],
+    "knownEvents": []
   }
 }

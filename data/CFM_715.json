@@ -11,7 +11,7 @@
     "collectible": true,
     "cost": 4,
     "text": "<b>전투의 함성:</b><br></br><b>비취 골렘</b>을 소환합니다.",
-    "attack": 2,
+    "attack": 3,
     "health": 3,
     "durability": 0,
     "armor": 0,
@@ -86,8 +86,10 @@
         "value": 42098
       }
     ],
-    "races": [],
-    "race": "",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
     "classes": [
       "DRUID",
       "ROGUE",
@@ -95,8 +97,99 @@
     ],
     "art": "art/CFM_715.png",
     "releasedAt": "2016-12-02",
+    "releaseStatus": "verified"
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-185_M.psd:f6a2e9ff1766c7f4291410d9564effbd",
+    "goldenMaterial": "CFM_715_PremiumCard.mat:ef126df40fed8d84492f1667c87843bf",
+    "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
     "releaseStatus": "verified",
-    "initialSpecStatus": "partially-verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "비취 정령",
+      "type": "MINION",
+      "cardClass": "NEUTRAL",
+      "classes": [
+        "DRUID",
+        "ROGUE",
+        "SHAMAN"
+      ],
+      "rarity": "COMMON",
+      "collectible": true,
+      "cost": 4,
+      "text": "<b>전투의 함성:</b><br></br><b>비취 골렘</b>을 소환합니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 3
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 2
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 4
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 12
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 1
+        },
+        {
+          "id": 218,
+          "name": "전투의 함성",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        },
+        {
+          "id": 441,
+          "name": "비취 골렘",
+          "value": 1
+        },
+        {
+          "id": 476,
+          "name": "복수 직업",
+          "value": 194
+        },
+        {
+          "id": 483,
+          "name": "비취 연꽃",
+          "value": 1
+        },
+        {
+          "id": 1452,
+          "name": "수집품 관련 카드 데이터베이스 ID",
+          "value": 42098
+        }
+      ],
+      "attack": 2,
+      "health": 3,
+      "races": [],
+      "race": ""
+    },
     "patches": [
       {
         "date": "2017-07-11",
@@ -104,21 +197,150 @@
           "races": [
             "ELEMENTAL"
           ],
-          "race": "정령"
+          "race": "정령",
+          "nativeTags": [
+            {
+              "id": 45,
+              "name": "생명력",
+              "value": 3
+            },
+            {
+              "id": 47,
+              "name": "공격력",
+              "value": 2
+            },
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 4
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 12
+            },
+            {
+              "id": 200,
+              "name": "종족",
+              "value": 18
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 4
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 1
+            },
+            {
+              "id": 218,
+              "name": "전투의 함성",
+              "value": 1
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            },
+            {
+              "id": 441,
+              "name": "비취 골렘",
+              "value": 1
+            },
+            {
+              "id": 476,
+              "name": "복수 직업",
+              "value": 194
+            },
+            {
+              "id": 483,
+              "name": "비취 연꽃",
+              "value": 1
+            },
+            {
+              "id": 1452,
+              "name": "수집품 관련 카드 데이터베이스 ID",
+              "value": 42098
+            }
+          ]
         }
       },
       {
         "date": "2023-08-23",
         "changes": {
-          "attack": 3
+          "attack": 3,
+          "nativeTags": [
+            {
+              "id": 45,
+              "name": "생명력",
+              "value": 3
+            },
+            {
+              "id": 47,
+              "name": "공격력",
+              "value": 3
+            },
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 4
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 12
+            },
+            {
+              "id": 200,
+              "name": "종족",
+              "value": 18
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 4
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 1
+            },
+            {
+              "id": 218,
+              "name": "전투의 함성",
+              "value": 1
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            },
+            {
+              "id": 441,
+              "name": "비취 골렘",
+              "value": 1
+            },
+            {
+              "id": 476,
+              "name": "복수 직업",
+              "value": 194
+            },
+            {
+              "id": 483,
+              "name": "비취 연꽃",
+              "value": 1
+            },
+            {
+              "id": 1452,
+              "name": "수집품 관련 카드 데이터베이스 ID",
+              "value": 42098
+            }
+          ]
         }
       }
-    ]
-  },
-  "artworkProvenance": {
-    "source": "installed Hearthstone native assets",
-    "portrait": "HS9-185_M.psd:f6a2e9ff1766c7f4291410d9564effbd",
-    "goldenMaterial": "CFM_715_PremiumCard.mat:ef126df40fed8d84492f1667c87843bf",
-    "goldenAnimation": ""
+    ],
+    "knownEvents": []
   }
 }

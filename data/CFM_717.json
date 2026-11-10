@@ -66,11 +66,6 @@
         "value": 1
       },
       {
-        "id": 441,
-        "name": "비취 골렘",
-        "value": 1
-      },
-      {
         "id": 1452,
         "name": "수집품 관련 카드 데이터베이스 ID",
         "value": 42098
@@ -81,14 +76,93 @@
     "classes": [],
     "art": "art/CFM_717.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-201_W.psd:c1606d56e82b95e43a46228faa4f812a",
     "goldenMaterial": "CFM_717_PremiumCard.mat:ea49f9c3fe5e17540b25a0bbe036dd4c",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "비취 발톱",
+      "type": "WEAPON",
+      "cardClass": "SHAMAN",
+      "classes": [],
+      "rarity": "RARE",
+      "collectible": true,
+      "cost": 2,
+      "text": "<b>전투의 함성:</b><br></br><b>비취 골렘</b>을 소환합니다.<br></br><b>과부하:</b> (1)",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 2
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 2
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 2
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 8
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 7
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 3
+        },
+        {
+          "id": 215,
+          "name": "과부하",
+          "value": 1
+        },
+        {
+          "id": 218,
+          "name": "전투의 함성",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        },
+        {
+          "id": 1452,
+          "name": "수집품 관련 카드 데이터베이스 ID",
+          "value": 42098
+        }
+      ],
+      "attack": 2,
+      "durability": 2
+    },
+    "patches": [],
+    "knownEvents": [],
+    "tagReferences": {
+      "2016-12-02": [
+        {
+          "id": 441,
+          "name": "비취 골렘",
+          "value": 1
+        }
+      ]
+    }
   }
 }
