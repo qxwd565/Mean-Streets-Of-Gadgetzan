@@ -1,1 +1,94 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_760","dbfId":40583,"name":"비밀결사 수정배달부","type":"MINION","cardClass":"MAGE","rarity":"RARE","collectible":true,"cost":6,"text":"이번 게임에서 내가 낸 <b>비밀</b> 하나당 비용이 (2)씩 감소합니다.","attack":6,"health":5,"durability":0,"armor":0,"flavor":"늦으면 흥이 다 깨져버렸으니 책임지라고 해서 언제나 서두릅니다.","spellSchool":"","portrait":"HS9-055_M.psd:807e3141144205941b2acfcfd40f2d2d","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":4},{"id":200,"name":"종족","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":219,"name":"비밀","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["DRAENEI"],"race":"드레나이","classes":[],"art":"art/CFM_760.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-055_M.psd:807e3141144205941b2acfcfd40f2d2d","goldenMaterial":"CFM_760_PremiumCard.mat:a7db673d26fad9f4e874476bbc1f2cd0","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_760",
+    "dbfId": 40583,
+    "name": "비밀결사 수정배달부",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "이번 게임에서 내가 낸 <b>비밀</b> 하나당 비용이 (2)씩 감소합니다.",
+    "attack": 6,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "늦으면 흥이 다 깨져버렸으니 책임지라고 해서 언제나 서두릅니다.",
+    "spellSchool": "",
+    "portrait": "HS9-055_M.psd:807e3141144205941b2acfcfd40f2d2d",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 219,
+        "name": "비밀",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_760.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "partially-verified",
+    "patches": [
+      {
+        "date": "2024-11-06",
+        "changes": {
+          "races": [
+            "DRAENEI"
+          ],
+          "race": "드레나이"
+        }
+      }
+    ]
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-055_M.psd:807e3141144205941b2acfcfd40f2d2d",
+    "goldenMaterial": "CFM_760_PremiumCard.mat:a7db673d26fad9f4e874476bbc1f2cd0",
+    "goldenAnimation": ""
+  }
+}

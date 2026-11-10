@@ -1,1 +1,86 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_751","dbfId":40541,"name":"난폭한 심연불악마","type":"MINION","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":7,"text":"<b>전투의 함성:</b>\n다른 <b>모든</b> 캐릭터에게 피해를 3 줍니다.","attack":6,"health":6,"durability":0,"armor":0,"flavor":"비밀결사는 불법 마나 수정에 이 문구를 꼭 써놓습니다. '심연불악마 가까이에 두지 말것. 불타는 악마가 사용할 것을 감안하여 제작되지 않았음.'","spellSchool":"","portrait":"HS9-113_M.psd:798011ab7f787744892f352555c44ce5","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":7},{"id":199,"name":"직업","value":9},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/CFM_751.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-113_M.psd:798011ab7f787744892f352555c44ce5","goldenMaterial":"CFM_751_PremiumCard.mat:ec80a7f8f37811f468c170fcec87be0f","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_751",
+    "dbfId": 40541,
+    "name": "난폭한 심연불악마",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>전투의 함성:</b><br></br>다른 <b>모든</b> 캐릭터에게 피해를 3 줍니다.",
+    "attack": 6,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "비밀결사는 불법 마나 수정에 이 문구를 꼭 써놓습니다. '심연불악마 가까이에 두지 말것. 불타는 악마가 사용할 것을 감안하여 제작되지 않았음.'",
+    "spellSchool": "",
+    "portrait": "HS9-113_M.psd:798011ab7f787744892f352555c44ce5",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/CFM_751.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-113_M.psd:798011ab7f787744892f352555c44ce5",
+    "goldenMaterial": "CFM_751_PremiumCard.mat:ec80a7f8f37811f468c170fcec87be0f",
+    "goldenAnimation": ""
+  }
+}

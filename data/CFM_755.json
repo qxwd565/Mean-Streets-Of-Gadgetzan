@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_755","dbfId":40569,"name":"험악한 거리 전당포 주인","type":"MINION","cardClass":"WARRIOR","rarity":"RARE","collectible":true,"cost":3,"text":"<b>전투의 함성:</b> 내 손에 있는 무작위 무기에 +1/+1을 부여합니다.","attack":3,"health":3,"durability":0,"armor":0,"flavor":"\"고블린 대 노움 카드라... 너무 오래된 거라 잘 모르겠네요. 전문가를 데려올테니 잠시만 기다리세요.\"","spellSchool":"","portrait":"HS9-002_M.psd:9b660b29cab02984ca19a48ae4a2d0a4","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/CFM_755.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-002_M.psd:9b660b29cab02984ca19a48ae4a2d0a4","goldenMaterial":"CFM_755_PremiumCard.mat:933daf5c1c2e47f41bb249fde498a6da","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_755",
+    "dbfId": 40569,
+    "name": "험악한 거리 전당포 주인",
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 내 손에 있는 무작위 무기에 +1/+1을 부여합니다.",
+    "attack": 3,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"고블린 대 노움 카드라... 너무 오래된 거라 잘 모르겠네요. 전문가를 데려올테니 잠시만 기다리세요.\"",
+    "spellSchool": "",
+    "portrait": "HS9-002_M.psd:9b660b29cab02984ca19a48ae4a2d0a4",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_755.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-002_M.psd:9b660b29cab02984ca19a48ae4a2d0a4",
+    "goldenMaterial": "CFM_755_PremiumCard.mat:933daf5c1c2e47f41bb249fde498a6da",
+    "goldenAnimation": ""
+  }
+}

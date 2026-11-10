@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_759","dbfId":40577,"name":"비열한 거리 치안대장","type":"MINION","cardClass":"PALADIN","rarity":"EPIC","collectible":true,"cost":1,"text":"<b>죽음의 메아리:</b>\n이 하수인의 공격력이\n2 이상이면, 카드를\n뽑습니다.","attack":1,"health":2,"durability":0,"armor":0,"flavor":"돌려돌려, 형량판!","spellSchool":"","portrait":"HS9-145_M.psd:00d7d0d5d9c1d2c45b0e79cc382d681f","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/CFM_759.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-145_M.psd:00d7d0d5d9c1d2c45b0e79cc382d681f","goldenMaterial":"CFM_759_PremiumCard.mat:854b152d002e26d40934b41c058d08a5","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_759",
+    "dbfId": 40577,
+    "name": "비열한 거리 치안대장",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>죽음의 메아리:</b><br></br>이 하수인의 공격력이<br></br>2 이상이면, 카드를<br></br>뽑습니다.",
+    "attack": 1,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "돌려돌려, 형량판!",
+    "spellSchool": "",
+    "portrait": "HS9-145_M.psd:00d7d0d5d9c1d2c45b0e79cc382d681f",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_759.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-145_M.psd:00d7d0d5d9c1d2c45b0e79cc382d681f",
+    "goldenMaterial": "CFM_759_PremiumCard.mat:854b152d002e26d40934b41c058d08a5",
+    "goldenAnimation": ""
+  }
+}
