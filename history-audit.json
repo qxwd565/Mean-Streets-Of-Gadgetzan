@@ -1,0 +1,3816 @@
+{
+  "schema": 1,
+  "timezone": "Asia/Seoul",
+  "set": "Mean Streets of Gadgetzan",
+  "investigationCommit": "89ef11fc3f81253087806036c25aa3d7907e2ecf",
+  "comparedBaselineCommit": "5cd44069769cb6e8904b3d4999c884c5cbbb04f6",
+  "summary": {
+    "originalConfirmedEvents": 74,
+    "newlyVerifiedEvents": 4,
+    "totalConfirmedEvents": 78,
+    "uniqueCards": 65,
+    "tokenFirstPlayableDatesPending": 56,
+    "remainingUnverifiedEvents": 4
+  },
+  "events": [
+    {
+      "date": "2017-03-01",
+      "cardId": "CFM_325",
+      "before": {
+        "health": 2
+      },
+      "changes": {
+        "health": 1
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/20562933"
+      ]
+    },
+    {
+      "date": "2017-07-11",
+      "cardId": "CFM_606",
+      "before": {
+        "races": [],
+        "race": "",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 42053
+          },
+          {
+            "id": 2821,
+            "name": "초과 치유",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "races": [
+          "ELEMENTAL"
+        ],
+        "race": "정령",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 18
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 42053
+          },
+          {
+            "id": 2821,
+            "name": "초과 치유",
+            "value": 1
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://news.blizzard.com/ko-kr/article/20904301/2017-7-11"
+      ]
+    },
+    {
+      "date": "2017-07-11",
+      "cardId": "CFM_606t",
+      "before": {
+        "races": [],
+        "race": "",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          }
+        ]
+      },
+      "changes": {
+        "races": [
+          "ELEMENTAL"
+        ],
+        "race": "정령",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 18
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "additional-verified",
+      "sourceUrls": [
+        "https://news.blizzard.com/ko-kr/article/20904301/2017-7-11",
+        "https://hearthstone.wiki.gg/wiki/Crystal"
+      ],
+      "note": "Race addition confirmed; first playable date remains pending."
+    },
+    {
+      "date": "2017-07-11",
+      "cardId": "CFM_715",
+      "before": {
+        "races": [],
+        "race": "",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 441,
+            "name": "비취 골렘",
+            "value": 1
+          },
+          {
+            "id": 476,
+            "name": "복수 직업",
+            "value": 194
+          },
+          {
+            "id": 483,
+            "name": "비취 연꽃",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 42098
+          }
+        ]
+      },
+      "changes": {
+        "races": [
+          "ELEMENTAL"
+        ],
+        "race": "정령",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 18
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 441,
+            "name": "비취 골렘",
+            "value": 1
+          },
+          {
+            "id": 476,
+            "name": "복수 직업",
+            "value": 194
+          },
+          {
+            "id": 483,
+            "name": "비취 연꽃",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 42098
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://news.blizzard.com/ko-kr/article/20904301/2017-7-11"
+      ]
+    },
+    {
+      "date": "2017-08-09",
+      "cardId": "CFM_815",
+      "before": {
+        "text": "<b>도발</b><br></br><b>천상의 보호막</b><br></br>이 하수인이 피해를 줄 때마다 내 영웅의 생명력을 그만큼 회복시킵니다.",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 190,
+            "name": "도발",
+            "value": 1
+          },
+          {
+            "id": 194,
+            "name": "천상의 보호막",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 5
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "text": "<b>도발</b><br></br><b>천상의 보호막</b><br></br><b>생명력 흡수</b>",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 3
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 3
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 190,
+            "name": "도발",
+            "value": 1
+          },
+          {
+            "id": 194,
+            "name": "천상의 보호막",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 5
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 685,
+            "name": "생명력 흡수",
+            "value": 1
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://news.blizzard.com/ko-kr/article/20944006/2017-8-9"
+      ]
+    },
+    {
+      "date": "2017-10-18",
+      "cardId": "CFM_900",
+      "before": {
+        "text": "내 하수인이 소환될 때마다,<br></br>내 영웅에게 피해를<br></br>5 줍니다."
+      },
+      "changes": {
+        "text": "내 하수인이 소환된 후에,<br></br>내 영웅에게 피해를<br></br>5 줍니다."
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/21098848/10-18"
+      ]
+    },
+    {
+      "date": "2018-02-07",
+      "cardId": "CFM_020",
+      "before": {
+        "text": "<b>전투의 함성:</b> 내 덱에 똑같은 카드가 없으면, 이번 게임에서 내 영웅 능력의 비용이 (0)이 됩니다."
+      },
+      "changes": {
+        "text": "<b>전투의 함성:</b> 내 덱에 똑같은 카드가 없으면, 이번 게임에서 내 영웅 능력의 비용이 (1)이 됩니다."
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://news.blizzard.com/ko-kr/article/21507224/10-2-2-7"
+      ]
+    },
+    {
+      "date": "2018-02-07",
+      "cardId": "CFM_637",
+      "before": {
+        "text": "<b>돌진</b><br></br>내가 해적을 낸 후에,<br></br>이 하수인을 내 덱에서<br></br>소환합니다.",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 1
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 23
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1932,
+            "name": "다이아몬드 카드 존재",
+            "value": 1
+          },
+          {
+            "id": 2537,
+            "name": "게임 태그 2537",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          },
+          {
+            "id": 197,
+            "name": "돌진",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "text": "내가 해적을 낸 후에,<br></br>이 하수인을 내 덱에서<br></br>소환합니다.",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 1
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 23
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1932,
+            "name": "다이아몬드 카드 존재",
+            "value": 1
+          },
+          {
+            "id": 2537,
+            "name": "게임 태그 2537",
+            "value": 1
+          },
+          {
+            "id": 2589,
+            "name": "간판 카드 존재",
+            "value": 1
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://news.blizzard.com/ko-kr/article/21507224/10-2-2-7"
+      ]
+    },
+    {
+      "date": "2020-03-18",
+      "cardId": "CFM_020",
+      "before": {
+        "text": "<b>전투의 함성:</b> 내 덱에 똑같은 카드가 없으면, 이번 게임에서 내 영웅 능력의 비용이 (1)이 됩니다."
+      },
+      "changes": {
+        "text": "<b>전투의 함성:</b> 내 덱에 똑같은 카드가 없으면, 이번 게임에서 내 영웅 능력의 비용이 (0)이 됩니다."
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://news.blizzard.com/ko-kr/article/23319440/3-18-16-6"
+      ]
+    },
+    {
+      "date": "2021-03-26",
+      "cardId": "CFM_021",
+      "before": {
+        "spellSchool": "",
+        "ownTags": [
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "spellSchool": "FROST",
+        "ownTags": [
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 3
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23642550/20-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2021-03-26",
+      "cardId": "CFM_065",
+      "before": {
+        "spellSchool": "",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "spellSchool": "FIRE",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 2
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23642550/20-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2021-03-26",
+      "cardId": "CFM_094",
+      "before": {
+        "spellSchool": "",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 6
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "spellSchool": "FEL",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 6
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 7
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23642550/20-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2021-03-26",
+      "cardId": "CFM_603",
+      "before": {
+        "spellSchool": "",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "spellSchool": "SHADOW",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 6
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23642550/20-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2021-03-26",
+      "cardId": "CFM_604",
+      "before": {
+        "spellSchool": "",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "spellSchool": "HOLY",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 5
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23642550/20-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2021-03-26",
+      "cardId": "CFM_608",
+      "before": {
+        "spellSchool": "",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "spellSchool": "SHADOW",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 6
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23642550/20-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2021-03-26",
+      "cardId": "CFM_611",
+      "before": {
+        "spellSchool": "",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "spellSchool": "SHADOW",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 6
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23642550/20-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2021-03-26",
+      "cardId": "CFM_620",
+      "before": {
+        "spellSchool": "",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 219,
+            "name": "비밀",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 796
+          }
+        ]
+      },
+      "changes": {
+        "spellSchool": "ARCANE",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 219,
+            "name": "비밀",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 796
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 1
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23642550/20-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2021-03-26",
+      "cardId": "CFM_623",
+      "before": {
+        "spellSchool": "",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 7
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "spellSchool": "ARCANE",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 7
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 1
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23642550/20-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2021-03-26",
+      "cardId": "CFM_661",
+      "before": {
+        "spellSchool": "",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "spellSchool": "SHADOW",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 6
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23642550/20-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2021-03-26",
+      "cardId": "CFM_662",
+      "before": {
+        "spellSchool": "",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "spellSchool": "FIRE",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 6
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 2
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23642550/20-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2021-03-26",
+      "cardId": "CFM_696",
+      "before": {
+        "spellSchool": "",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 8
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "spellSchool": "NATURE",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 2
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 8
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 4
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23642550/20-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2021-03-26",
+      "cardId": "CFM_707",
+      "before": {
+        "spellSchool": "",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 8
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 42098
+          }
+        ]
+      },
+      "changes": {
+        "spellSchool": "NATURE",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 8
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 42098
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 4
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23642550/20-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2021-03-26",
+      "cardId": "CFM_713",
+      "before": {
+        "spellSchool": "",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 42098
+          }
+        ]
+      },
+      "changes": {
+        "spellSchool": "NATURE",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1452,
+            "name": "수집품 관련 카드 데이터베이스 ID",
+            "value": 42098
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 4
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23642550/20-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2021-03-26",
+      "cardId": "CFM_811",
+      "before": {
+        "spellSchool": "",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "spellSchool": "ARCANE",
+        "ownTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 1
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23642550/20-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2021-05-05",
+      "cardId": "CFM_688",
+      "before": {
+        "races": [],
+        "race": "",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "races": [
+          "QUILBOAR"
+        ],
+        "race": "가시멧돼지",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 43
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23665634/20-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2021-05-05",
+      "cardId": "CFM_809",
+      "before": {
+        "races": [],
+        "race": "",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 4
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "races": [
+          "QUILBOAR"
+        ],
+        "race": "가시멧돼지",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 4
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 43
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23665634/20-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2021-05-05",
+      "cardId": "CFM_810",
+      "before": {
+        "races": [],
+        "race": "",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 6
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 6
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 6
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "races": [
+          "QUILBOAR"
+        ],
+        "race": "가시멧돼지",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 6
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 6
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 6
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 43
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23665634/20-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2022-04-06",
+      "cardId": "CFM_665",
+      "before": {
+        "health": 3
+      },
+      "changes": {
+        "health": 4
+      },
+      "verification": "confirmed",
+      "origin": "additional-verified",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23784368/opisanie-obnovleniya-23-0",
+        "https://hearthstone.wiki.gg/wiki/Worgen_Greaser"
+      ],
+      "note": "Patch 23.0 card history identifies CFM_665 and health 3→4; Korean patch notes document the 2022-04-06 live update schedule."
+    },
+    {
+      "date": "2022-11-30",
+      "cardId": "CFM_063",
+      "before": {
+        "races": [],
+        "race": "",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 4
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "races": [
+          "UNDEAD"
+        ],
+        "race": "언데드",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 4
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 11
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23882860/25-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2022-11-30",
+      "cardId": "CFM_120",
+      "before": {
+        "races": [],
+        "race": "",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 217,
+            "name": "죽음의 메아리",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "races": [
+          "UNDEAD"
+        ],
+        "race": "언데드",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 2
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 2
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 11
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 217,
+            "name": "죽음의 메아리",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23882860/25-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2022-11-30",
+      "cardId": "CFM_308",
+      "before": {
+        "races": [],
+        "race": "",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 7
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 7
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 10
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 443,
+            "name": "선택",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "races": [
+          "UNDEAD"
+        ],
+        "race": "언데드",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 7
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 7
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 10
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 11
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 443,
+            "name": "선택",
+            "value": 1
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23882860/25-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2022-11-30",
+      "cardId": "CFM_341",
+      "before": {
+        "races": [],
+        "race": "",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 1
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 217,
+            "name": "죽음의 메아리",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "races": [
+          "UNDEAD"
+        ],
+        "race": "언데드",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 1
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 11
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 217,
+            "name": "죽음의 메아리",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23882860/25-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2022-11-30",
+      "cardId": "CFM_636",
+      "before": {
+        "races": [],
+        "race": "",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 1
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 191,
+            "name": "은신",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 7
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "races": [
+          "UNDEAD"
+        ],
+        "race": "언데드",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 1
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 191,
+            "name": "은신",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 7
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 11
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23882860/25-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2022-11-30",
+      "cardId": "CFM_637",
+      "before": {
+        "races": [
+          "PIRATE"
+        ],
+        "race": "해적"
+      },
+      "changes": {
+        "races": [
+          "DEMON",
+          "PIRATE"
+        ],
+        "race": "악마, 해적"
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23882860/25-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2022-11-30",
+      "cardId": "CFM_651",
+      "before": {
+        "races": [
+          "PIRATE"
+        ],
+        "race": "해적"
+      },
+      "changes": {
+        "races": [
+          "NAGA",
+          "PIRATE"
+        ],
+        "race": "나가, 해적"
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23882860/25-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2022-11-30",
+      "cardId": "CFM_808",
+      "before": {
+        "races": [],
+        "race": "",
+        "ownTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "races": [
+          "UNDEAD"
+        ],
+        "race": "언데드",
+        "ownTags": [
+          {
+            "id": 32,
+            "name": "발동 효과 표시",
+            "value": 1
+          },
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 11
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23882860/25-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-04-05",
+      "cardId": "CFM_605",
+      "before": {
+        "cost": 5,
+        "attack": 5,
+        "health": 6
+      },
+      "changes": {
+        "cost": 4,
+        "attack": 4,
+        "health": 5
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23934449/26-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-04-05",
+      "cardId": "CFM_606",
+      "before": {
+        "text": "이 하수인이 치유될 때마다 2/2 수정을 소환합니다."
+      },
+      "changes": {
+        "text": "<b>초과 치유:</b> 2/2 수정을 소환합니다."
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23934449/26-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-04-05",
+      "cardId": "CFM_753",
+      "before": {
+        "attack": 1,
+        "health": 1
+      },
+      "changes": {
+        "attack": 2,
+        "health": 2
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23934449/26-0-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_039",
+      "before": {
+        "text": "<b>주문 공격력 +1</b>"
+      },
+      "changes": {
+        "text": "<b>주문 공격력 +2</b>"
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_061",
+      "before": {
+        "attack": 3
+      },
+      "changes": {
+        "attack": 4
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_310",
+      "before": {
+        "cost": 4
+      },
+      "changes": {
+        "cost": 3
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_312",
+      "before": {
+        "cost": 7
+      },
+      "changes": {
+        "cost": 6
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_321",
+      "before": {
+        "attack": 1,
+        "health": 1
+      },
+      "changes": {
+        "attack": 2,
+        "health": 2
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_325",
+      "before": {
+        "health": 1
+      },
+      "changes": {
+        "health": 2
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_334",
+      "before": {
+        "cost": 1
+      },
+      "changes": {
+        "cost": 0
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_336",
+      "before": {
+        "attack": 3
+      },
+      "changes": {
+        "attack": 4
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_343",
+      "before": {
+        "cost": 6
+      },
+      "changes": {
+        "cost": 5
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_631",
+      "before": {
+        "cost": 4
+      },
+      "changes": {
+        "cost": 3
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_639",
+      "before": {
+        "cost": 5
+      },
+      "changes": {
+        "cost": 4
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_643",
+      "before": {
+        "cost": 2,
+        "text": "<b>전투의 함성:</b> 내 손과 덱에 있는 모든 무기에 공격력을 +1 부여합니다."
+      },
+      "changes": {
+        "cost": 4,
+        "text": "<b>전투의 함성:</b> 내 영웅이 무기를 장착하고 있으면, 내 손과 덱에 있는 모든 하수인에게 +2/+2를 부여합니다."
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_649",
+      "before": {
+        "cost": 3
+      },
+      "changes": {
+        "cost": 2
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_665",
+      "before": {
+        "health": 4
+      },
+      "changes": {
+        "health": 5
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_685",
+      "before": {
+        "cost": 7
+      },
+      "changes": {
+        "cost": 5
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_690",
+      "before": {
+        "text": "피해를 $2 줍니다.<br></br><b>연계:</b> <b>비취 골렘</b>을<br></br>소환합니다."
+      },
+      "changes": {
+        "text": "피해를 $3 줍니다.<br></br><b>연계:</b> <b>비취 골렘</b>을<br></br>소환합니다."
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_691",
+      "before": {
+        "cost": 2
+      },
+      "changes": {
+        "cost": 1
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_707",
+      "before": {
+        "cost": 4,
+        "text": "피해를 $4 줍니다.<br></br><b>비취 골렘</b>을<br></br>소환합니다."
+      },
+      "changes": {
+        "cost": 3,
+        "text": "피해를 $3 줍니다.<br></br><b>비취 골렘</b>을<br></br>소환합니다."
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_715",
+      "before": {
+        "attack": 2
+      },
+      "changes": {
+        "attack": 3
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_750",
+      "before": {
+        "attack": 7
+      },
+      "changes": {
+        "attack": 9
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_752",
+      "before": {
+        "text": "내 손에 있는 무작위 <b>도발</b> 하수인에게 +3/+3을 부여합니다."
+      },
+      "changes": {
+        "text": "<b>도발</b> 하수인을<br></br>뽑습니다. 그 하수인에게<br></br>+2/+2를 부여합니다."
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_754",
+      "before": {
+        "cost": 4
+      },
+      "changes": {
+        "cost": 3
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_756",
+      "before": {
+        "attack": 2
+      },
+      "changes": {
+        "attack": 3
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_760",
+      "before": {
+        "attack": 5
+      },
+      "changes": {
+        "attack": 6
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_815",
+      "before": {
+        "attack": 2,
+        "health": 2
+      },
+      "changes": {
+        "attack": 3,
+        "health": 3
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_816",
+      "before": {
+        "cost": 5,
+        "health": 5,
+        "text": "<b>전투의 함성:</b> 아군 야수에게 +2/+2을 부여합니다."
+      },
+      "changes": {
+        "cost": 4,
+        "health": 4,
+        "text": "<b>전투의 함성:</b> 아군 야수에게 +3/+3을 부여합니다."
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_852",
+      "before": {
+        "cost": 5,
+        "attack": 5
+      },
+      "changes": {
+        "cost": 3,
+        "attack": 3
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_902",
+      "before": {
+        "attack": 5
+      },
+      "changes": {
+        "attack": 6
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-23",
+      "cardId": "CFM_940",
+      "before": {
+        "text": "<b>도발</b> 하수인을 <b>발견</b>합니다."
+      },
+      "changes": {
+        "text": "<b>도발</b> 하수인을 <b>발견</b>합니다.<br></br>그 하수인에게 +1/+2를 부여합니다."
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-08-31",
+      "cardId": "CFM_685",
+      "before": {
+        "health": 6
+      },
+      "changes": {
+        "health": 5
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://news.blizzard.com/ko-kr/article/23987539/27-2-2"
+      ]
+    },
+    {
+      "date": "2023-09-29",
+      "cardId": "CFM_066",
+      "before": {
+        "text": "<b>전투의 함성:</b> 이번 턴에 내는 내 다음 <b>비밀</b>의 비용이 (0)이 됩니다."
+      },
+      "changes": {
+        "text": "<b>전투의 함성:</b> 이번 턴에 내는 내 다음 <b>비밀</b>의 비용이 (1)이 됩니다."
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23999072/27-4-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-09-29",
+      "cardId": "CFM_662",
+      "before": {
+        "cost": 6
+      },
+      "changes": {
+        "cost": 5
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/23999072/27-4-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2023-12-06",
+      "cardId": "CFM_672",
+      "before": {
+        "text": "<b>전투의 함성:</b><br></br>아군 하수인을 선택합니다.<br></br>내 덱에 있는 무작위 하수인과 교체합니다."
+      },
+      "changes": {
+        "text": "<b>전투의 함성:</b><br></br>아군 하수인을 선택합니다.<br></br>내 덱에 있는 그 하수인을<br></br>모두 소환합니다."
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/24008697/28-2-patch-notes"
+      ]
+    },
+    {
+      "date": "2024-10-30",
+      "cardId": "CFM_610",
+      "before": {
+        "races": [],
+        "race": "",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1429,
+            "name": "전장 황금 하수인 ID",
+            "value": 59504
+          },
+          {
+            "id": 1440,
+            "name": "선술집 단계",
+            "value": 3
+          },
+          {
+            "id": 1593,
+            "name": "전장 악마 분류",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "races": [
+          "DRAENEI"
+        ],
+        "race": "드레나이",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 4
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 5
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 4
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 9
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 218,
+            "name": "전투의 함성",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 1429,
+            "name": "전장 황금 하수인 ID",
+            "value": 59504
+          },
+          {
+            "id": 1440,
+            "name": "선술집 단계",
+            "value": 3
+          },
+          {
+            "id": 1593,
+            "name": "전장 악마 분류",
+            "value": 1
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "additional-verified",
+      "sourceUrls": [
+        "https://news.blizzard.com/ko-kr/article/24149389/31-0",
+        "https://hearthstone.wiki.gg/wiki/Crystalweaver",
+        "https://hearthstone.wiki.gg/wiki/Kabal_Crystal_Runner"
+      ]
+    },
+    {
+      "date": "2024-10-30",
+      "cardId": "CFM_760",
+      "before": {
+        "races": [],
+        "race": "",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 6
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 6
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "changes": {
+        "races": [
+          "DRAENEI"
+        ],
+        "race": "드레나이",
+        "ownTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 5
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 6
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 6
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 3
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ]
+      },
+      "verification": "confirmed",
+      "origin": "additional-verified",
+      "sourceUrls": [
+        "https://news.blizzard.com/ko-kr/article/24149389/31-0",
+        "https://hearthstone.wiki.gg/wiki/Crystalweaver",
+        "https://hearthstone.wiki.gg/wiki/Kabal_Crystal_Runner"
+      ]
+    },
+    {
+      "date": "2025-03-19",
+      "cardId": "CFM_344",
+      "before": {
+        "attack": 2,
+        "health": 4
+      },
+      "changes": {
+        "attack": 3,
+        "health": 5
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/24187196/32-0"
+      ]
+    },
+    {
+      "date": "2025-03-19",
+      "cardId": "CFM_604",
+      "before": {
+        "text": "아군 캐릭터의 생명력을 #12 회복시킵니다."
+      },
+      "changes": {
+        "text": "아군 캐릭터의 생명력을 #12 회복시킵니다.<br></br>카드를 뽑습니다."
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/24187196/32-0"
+      ]
+    },
+    {
+      "date": "2025-03-19",
+      "cardId": "CFM_781",
+      "before": {
+        "health": 3
+      },
+      "changes": {
+        "health": 4
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/24187196/32-0"
+      ]
+    },
+    {
+      "date": "2026-03-11",
+      "cardId": "CFM_781",
+      "before": {
+        "text": "<b>은신</b>, 이 하수인이 공격할 때마다 상대편 직업의 카드를 내 손으로 가져옵니다."
+      },
+      "changes": {
+        "text": "<b>은신</b>, 이 하수인이 공격할 때마다 다른 직업의 카드를 내 손으로 가져옵니다."
+      },
+      "verification": "confirmed",
+      "origin": "original-confirmed",
+      "sourceUrls": [
+        "https://hearthstone.blizzard.com/ko-kr/news/24267727"
+      ]
+    }
+  ],
+  "sourcesByDate": {
+    "2017-03-01": [
+      "https://hearthstone.blizzard.com/ko-kr/news/20562933"
+    ],
+    "2017-07-11": [
+      "https://news.blizzard.com/ko-kr/article/20904301/2017-7-11"
+    ],
+    "2017-08-09": [
+      "https://news.blizzard.com/ko-kr/article/20944006/2017-8-9"
+    ],
+    "2017-10-18": [
+      "https://hearthstone.blizzard.com/ko-kr/news/21098848/10-18"
+    ],
+    "2018-02-07": [
+      "https://news.blizzard.com/ko-kr/article/21507224/10-2-2-7"
+    ],
+    "2020-03-18": [
+      "https://news.blizzard.com/ko-kr/article/23319440/3-18-16-6"
+    ],
+    "2021-03-26": [
+      "https://hearthstone.blizzard.com/ko-kr/news/23642550/20-0-patch-notes"
+    ],
+    "2021-05-05": [
+      "https://hearthstone.blizzard.com/ko-kr/news/23665634/20-2-patch-notes"
+    ],
+    "2022-04-06": [
+      "https://hearthstone.blizzard.com/ko-kr/news/23784368/opisanie-obnovleniya-23-0",
+      "https://hearthstone.wiki.gg/wiki/Worgen_Greaser"
+    ],
+    "2022-11-30": [
+      "https://hearthstone.blizzard.com/ko-kr/news/23882860/25-0-patch-notes"
+    ],
+    "2023-04-05": [
+      "https://hearthstone.blizzard.com/ko-kr/news/23934449/26-0-patch-notes"
+    ],
+    "2023-08-23": [
+      "https://hearthstone.blizzard.com/ko-kr/news/23987537/27-2-patch-notes"
+    ],
+    "2023-08-31": [
+      "https://news.blizzard.com/ko-kr/article/23987539/27-2-2"
+    ],
+    "2023-09-29": [
+      "https://hearthstone.blizzard.com/ko-kr/news/23999072/27-4-2-patch-notes"
+    ],
+    "2023-12-06": [
+      "https://hearthstone.blizzard.com/ko-kr/news/24008697/28-2-patch-notes"
+    ],
+    "2024-10-30": [
+      "https://news.blizzard.com/ko-kr/article/24149389/31-0",
+      "https://hearthstone.wiki.gg/wiki/Crystalweaver",
+      "https://hearthstone.wiki.gg/wiki/Kabal_Crystal_Runner"
+    ],
+    "2025-03-19": [
+      "https://hearthstone.blizzard.com/ko-kr/news/24187196/32-0"
+    ],
+    "2026-03-11": [
+      "https://hearthstone.blizzard.com/ko-kr/news/24267727"
+    ]
+  },
+  "notes": "Changes are stored as sparse field deltas. before is retained for audit validation and is not copied into the runtime event."
+}
