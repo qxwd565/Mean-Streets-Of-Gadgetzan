@@ -1,1 +1,76 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_623","dbfId":40411,"name":"상급 신비한 화살","type":"SPELL","cardClass":"MAGE","rarity":"EPIC","collectible":true,"cost":7,"text":"피해를 $3씩 주는\n화살 세 개를 무작위\n적들에게 발사합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"상급 불덩이 작렬은 얼마나 멋질지 기대가 되네요.","spellSchool":"ARCANE","portrait":"HS9-057_S.psd:ae9116058e164244dad0949a45a24186","set":"GANGS","nativeTags":[{"id":48,"name":"마나 비용","value":7},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":1}],"races":[],"race":"","classes":[],"art":"art/CFM_623.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-057_S.psd:ae9116058e164244dad0949a45a24186","goldenMaterial":"CFM_623_PremiumCard.mat:03e711696bcd67d4e93d70286a3a4d19","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_623",
+    "dbfId": 40411,
+    "name": "상급 신비한 화살",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 7,
+    "text": "피해를 $3씩 주는<br></br>화살 세 개를 무작위<br></br>적들에게 발사합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "상급 불덩이 작렬은 얼마나 멋질지 기대가 되네요.",
+    "spellSchool": "",
+    "portrait": "HS9-057_S.psd:ae9116058e164244dad0949a45a24186",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_623.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "partially-verified",
+    "patches": [
+      {
+        "date": "2021-03-26",
+        "changes": {
+          "spellSchool": "ARCANE"
+        }
+      }
+    ]
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-057_S.psd:ae9116058e164244dad0949a45a24186",
+    "goldenMaterial": "CFM_623_PremiumCard.mat:03e711696bcd67d4e93d70286a3a4d19",
+    "goldenAnimation": ""
+  }
+}

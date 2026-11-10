@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_643","dbfId":40482,"name":"호바트 그래플해머","type":"MINION","cardClass":"WARRIOR","rarity":"LEGENDARY","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> 내 영웅이 무기를 장착하고 있으면, 내 손과 덱에 있는 모든 하수인에게 +2/+2를 부여합니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"자동 발사 피라냐 투척기라는 끔찍한 무기를 발명한 천재입니다. 물론 이 무기는 7개의 구역에서 사용이 금지되어 있습니다.","spellSchool":"","portrait":"HS9-158_M.psd:49065a27e81f1e04f84d187bd11a1c41","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/CFM_643.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-158_M.psd:49065a27e81f1e04f84d187bd11a1c41","goldenMaterial":"CFM_643_PremiumCard.mat:7c56a3c02010fb64087ee0a25b031d0d","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_643",
+    "dbfId": 40482,
+    "name": "호바트 그래플해머",
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 내 영웅이 무기를 장착하고 있으면, 내 손과 덱에 있는 모든 하수인에게 +2/+2를 부여합니다.",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "자동 발사 피라냐 투척기라는 끔찍한 무기를 발명한 천재입니다. 물론 이 무기는 7개의 구역에서 사용이 금지되어 있습니다.",
+    "spellSchool": "",
+    "portrait": "HS9-158_M.psd:49065a27e81f1e04f84d187bd11a1c41",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_643.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-158_M.psd:49065a27e81f1e04f84d187bd11a1c41",
+    "goldenMaterial": "CFM_643_PremiumCard.mat:7c56a3c02010fb64087ee0a25b031d0d",
+    "goldenAnimation": ""
+  }
+}

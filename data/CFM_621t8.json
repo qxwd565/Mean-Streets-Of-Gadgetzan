@@ -1,1 +1,58 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_621t8","dbfId":41584,"name":"왕꽃잎풀","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":1,"text":"카드를 뽑습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS9-210f_S.psd:e693979a428c4bc42aa71fdc573cd385","set":"GANGS","nativeTags":[{"id":2,"name":"효과 수치 1","value":8},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/CFM_621t8.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-210f_S.psd:e693979a428c4bc42aa71fdc573cd385","goldenMaterial":"CFM_621t10_PremiumCard.mat:585b39057ebf15a4aa260bc1141a25ad","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_621t8",
+    "dbfId": 41584,
+    "name": "왕꽃잎풀",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 1,
+    "text": "카드를 뽑습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS9-210f_S.psd:e693979a428c4bc42aa71fdc573cd385",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_621t8.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "estimated",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-210f_S.psd:e693979a428c4bc42aa71fdc573cd385",
+    "goldenMaterial": "CFM_621t10_PremiumCard.mat:585b39057ebf15a4aa260bc1141a25ad",
+    "goldenAnimation": ""
+  }
+}

@@ -1,1 +1,94 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_636","dbfId":40464,"name":"어둠 광전사","type":"MINION","cardClass":"ROGUE","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>은신</b>","attack":5,"health":1,"durability":0,"armor":0,"flavor":"이제 하나만 더 모이면 합체할 수 있겠군요.","spellSchool":"","portrait":"HS7-099_M.psd:f8f17413a4794b444a37994cf9f9e6c8","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":3},{"id":191,"name":"은신","value":1},{"id":199,"name":"직업","value":7},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["UNDEAD"],"race":"언데드","classes":[],"art":"art/CFM_636.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS7-099_M.psd:f8f17413a4794b444a37994cf9f9e6c8","goldenMaterial":"CFM_636_PremiumCard.mat:e6b5e7cb34dc7ab458fec8e079e2634e","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_636",
+    "dbfId": 40464,
+    "name": "어둠 광전사",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>은신</b>",
+    "attack": 5,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "이제 하나만 더 모이면 합체할 수 있겠군요.",
+    "spellSchool": "",
+    "portrait": "HS7-099_M.psd:f8f17413a4794b444a37994cf9f9e6c8",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 191,
+        "name": "은신",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_636.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "partially-verified",
+    "patches": [
+      {
+        "date": "2022-12-07",
+        "changes": {
+          "races": [
+            "UNDEAD"
+          ],
+          "race": "언데드"
+        }
+      }
+    ]
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS7-099_M.psd:f8f17413a4794b444a37994cf9f9e6c8",
+    "goldenMaterial": "CFM_636_PremiumCard.mat:e6b5e7cb34dc7ab458fec8e079e2634e",
+    "goldenAnimation": ""
+  }
+}

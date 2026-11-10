@@ -1,1 +1,58 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_621t6","dbfId":41586,"name":"황금가시","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":1,"text":"내 하수인들에게 생명력을 +2 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS9-210d_S.psd:da4fa6f64f0120c4c89e39380c512390","set":"GANGS","nativeTags":[{"id":2,"name":"효과 수치 1","value":6},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/CFM_621t6.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-210d_S.psd:da4fa6f64f0120c4c89e39380c512390","goldenMaterial":"CFM_621t10_PremiumCard.mat:76519bb05488e7344b49b2292abb05f3","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_621t6",
+    "dbfId": 41586,
+    "name": "황금가시",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 1,
+    "text": "내 하수인들에게 생명력을 +2 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS9-210d_S.psd:da4fa6f64f0120c4c89e39380c512390",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_621t6.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "estimated",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-210d_S.psd:da4fa6f64f0120c4c89e39380c512390",
+    "goldenMaterial": "CFM_621t10_PremiumCard.mat:76519bb05488e7344b49b2292abb05f3",
+    "goldenAnimation": ""
+  }
+}

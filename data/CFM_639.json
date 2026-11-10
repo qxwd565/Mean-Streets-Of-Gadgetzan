@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_639","dbfId":40469,"name":"험악한 거리 집행자","type":"MINION","cardClass":"PALADIN","rarity":"RARE","collectible":true,"cost":4,"text":"내 턴이 끝날 때, 내 손에 있는 모든 하수인에게 +1/+1을 부여합니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"\"형씨, 요금은 내고 탈것을 주차하란 말이야.\"","spellSchool":"","portrait":"HS9-151_M.psd:03bdfe0bc14ac4c4c81cb3ff3529d745","set":"GANGS","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/CFM_639.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-151_M.psd:03bdfe0bc14ac4c4c81cb3ff3529d745","goldenMaterial":"CFM_639_PremiumCard.mat:9a3dd5a26feeb4e499bec4878224f017","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_639",
+    "dbfId": 40469,
+    "name": "험악한 거리 집행자",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "내 턴이 끝날 때, 내 손에 있는 모든 하수인에게 +1/+1을 부여합니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"형씨, 요금은 내고 탈것을 주차하란 말이야.\"",
+    "spellSchool": "",
+    "portrait": "HS9-151_M.psd:03bdfe0bc14ac4c4c81cb3ff3529d745",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_639.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-151_M.psd:03bdfe0bc14ac4c4c81cb3ff3529d745",
+    "goldenMaterial": "CFM_639_PremiumCard.mat:9a3dd5a26feeb4e499bec4878224f017",
+    "goldenAnimation": ""
+  }
+}
