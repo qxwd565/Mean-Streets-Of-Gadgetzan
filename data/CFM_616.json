@@ -51,14 +51,58 @@
     "classes": [],
     "art": "art/CFM_616.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-080_S.psd:62ff8e1da1f5aaf438acaa6320621e26",
     "goldenMaterial": "CFM_616_PremiumCard.mat:5ef20ce7be20c574cbaefa28b0a32730",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "가로챈 힘",
+      "type": "SPELL",
+      "cardClass": "DRUID",
+      "classes": [],
+      "rarity": "EPIC",
+      "collectible": true,
+      "cost": 3,
+      "text": "아군 하수인 하나당 빈 마나 수정을 1개 얻습니다.",
+      "nativeTags": [
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 3
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 2
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 5
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 4
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "spellSchool": ""
+    },
+    "patches": [],
+    "knownEvents": []
   }
 }

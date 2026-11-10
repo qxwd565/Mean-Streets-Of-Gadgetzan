@@ -66,15 +66,22 @@
     "race": "악마",
     "classes": [],
     "art": "art/CFM_621_m2.png",
-    "releasedAt": "2016-12-02",
-    "releaseStatus": "estimated",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS8-156_M.psd:80a8513be8fa1c64aa47845df30fa6b1",
     "goldenMaterial": "CFM_621_m2_PremiumCard.mat:7fe448c54d832c04b89379a6aa716794",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": null,
+    "releaseStatus": "pending",
+    "initialSpecStatus": "pending-first-playable",
+    "initialSpec": null,
+    "patches": [],
+    "knownEvents": []
   }
 }

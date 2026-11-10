@@ -90,14 +90,100 @@
     ],
     "art": "art/CFM_621.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-059_M.psd:a55b1e364b01a174e9895b349d395756",
     "goldenMaterial": "CFM_621_PremiumCard.mat:ebc50d6651e67ef46875e38e33a04b0f",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "카자쿠스",
+      "type": "MINION",
+      "cardClass": "NEUTRAL",
+      "classes": [
+        "MAGE",
+        "PRIEST",
+        "WARLOCK"
+      ],
+      "rarity": "LEGENDARY",
+      "collectible": true,
+      "cost": 4,
+      "text": "<b>전투의 함성:</b> 내 덱에 똑같은 카드가 없으면, 원하는 주문을 직접 만듭니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 3
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 3
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 4
+        },
+        {
+          "id": 114,
+          "name": "전설 속성",
+          "value": 1
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 12
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 5
+        },
+        {
+          "id": 218,
+          "name": "전투의 함성",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        },
+        {
+          "id": 476,
+          "name": "복수 직업",
+          "value": 296
+        },
+        {
+          "id": 484,
+          "name": "비밀결사",
+          "value": 1
+        },
+        {
+          "id": 2589,
+          "name": "간판 카드 존재",
+          "value": 1
+        }
+      ],
+      "attack": 3,
+      "health": 3,
+      "races": [],
+      "race": ""
+    },
+    "patches": [],
+    "knownEvents": []
   }
 }
