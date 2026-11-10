@@ -290,18 +290,26 @@ def validate_against_timeline_index(record, index_record):
         if refs_changes:
             expected_refs[day] = refs_changes
         item = {"date": day, "before": before, "changes": changes}
-        for key in ("sourceUrls", "origin", "note"):
+        for key in ("sourceUrls", "origin"):
             if key in event:
                 item[key] = clone(event[key])
         expected_known.append(item)
-    if not same(timeline.get("knownEvents"), expected_known):
+    actual_known = []
+    for event in timeline.get("knownEvents", []):
+        actual_known.append({key: clone(event[key]) for key in ("date", "before", "changes", "sourceUrls", "origin") if key in event})
+    if not same(actual_known, expected_known):
         raise ValueError(f"{card_id}: knownEvents differ from timeline-index")
     if not same(timeline.get("tagReferences", {}), expected_refs):
         raise ValueError(f"{card_id}: pending tagReferences differ from timeline-index")
     return current
 
 
-def validate_audit(transitions, audit):
+def validate_audit(transitions, audit, records):
+    known_event_map = {}
+    for record in records:
+        card_id = record["card"]["id"]
+        for event in record["timeline"].get("knownEvents", []):
+            known_event_map[(card_id, event["date"])] = event
     events = audit.get("events")
     if not isinstance(events, list):
         raise ValueError("history-audit.json: events must be an array")
@@ -324,6 +332,11 @@ def validate_audit(transitions, audit):
                 field = "nativeTags" if field == "ownTags" else field
                 if field not in target or not same(target[field], value):
                     raise ValueError(f"history-audit {key}: {source}.{field} mismatch")
+        known = known_event_map.get(key)
+        if known is not None:
+            for field in ("sourceUrls", "origin", "note"):
+                if field in event and not same(known.get(field), event[field]):
+                    raise ValueError(f"history-audit {key}: provenance {field} mismatch")
     if seen != expected:
         raise ValueError(f"history-audit event set mismatch: missing={sorted(expected-seen)}, extra={sorted(seen-expected)}")
 
@@ -508,7 +521,7 @@ def build_outputs(root=ROOT, expected_count=188):
     for record in records:
         validate_against_timeline_index(record, index_cards[record["card"]["id"]])
     history, transitions = build_history(records)
-    validate_audit(transitions, audit)
+    validate_audit(transitions, audit, records)
     first_playable, unresolved = validate_pending_sources(pending, policy, records)
     cards = []
     render = []
