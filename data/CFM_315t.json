@@ -71,15 +71,22 @@
     "race": "야수",
     "classes": [],
     "art": "art/CFM_315t.png",
-    "releasedAt": "2016-12-02",
-    "releaseStatus": "estimated",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-155_M.psd:62cd5a85f75e7f14fbc18f910d9c8e44",
     "goldenMaterial": "CFM_315t_PremiumCard.mat:c5cd84cd67ee21140963029e52b011d2",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": null,
+    "releaseStatus": "pending",
+    "initialSpecStatus": "pending-first-playable",
+    "initialSpec": null,
+    "patches": [],
+    "knownEvents": []
   }
 }

@@ -68,27 +68,175 @@
     "classes": [],
     "art": "art/CFM_325.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "partially-verified",
-    "patches": [
-      {
-        "date": "2017-03-01",
-        "changes": {
-          "health": 1
-        }
-      },
-      {
-        "date": "2023-08-23",
-        "changes": {
-          "health": 2
-        }
-      }
-    ]
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-038_M.psd:4a19a0ead46005944895655d9c5fffa9",
     "goldenMaterial": "CFM_325_PremiumCard.mat:f54a0f5071db01d4aaffb27270dcf79d",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "신참 해적단원",
+      "type": "MINION",
+      "cardClass": "NEUTRAL",
+      "classes": [],
+      "rarity": "RARE",
+      "collectible": true,
+      "cost": 1,
+      "text": "내 영웅이 무기를 장착하고 있으면 공격력을 +2 얻습니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 2
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 1
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 1
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 12
+        },
+        {
+          "id": 200,
+          "name": "종족",
+          "value": 23
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 3
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "attack": 1,
+      "health": 2,
+      "races": [
+        "PIRATE"
+      ],
+      "race": "해적"
+    },
+    "patches": [
+      {
+        "date": "2017-03-01",
+        "changes": {
+          "health": 1,
+          "nativeTags": [
+            {
+              "id": 45,
+              "name": "생명력",
+              "value": 1
+            },
+            {
+              "id": 47,
+              "name": "공격력",
+              "value": 1
+            },
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 1
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 12
+            },
+            {
+              "id": 200,
+              "name": "종족",
+              "value": 23
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 4
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 3
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            }
+          ]
+        }
+      },
+      {
+        "date": "2023-08-23",
+        "changes": {
+          "health": 2,
+          "nativeTags": [
+            {
+              "id": 45,
+              "name": "생명력",
+              "value": 2
+            },
+            {
+              "id": 47,
+              "name": "공격력",
+              "value": 1
+            },
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 1
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 12
+            },
+            {
+              "id": 200,
+              "name": "종족",
+              "value": 23
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 4
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 3
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            }
+          ]
+        }
+      }
+    ],
+    "knownEvents": []
   }
 }

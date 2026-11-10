@@ -66,15 +66,22 @@
     "race": "멀록",
     "classes": [],
     "art": "art/CFM_310t.png",
-    "releasedAt": "2016-12-02",
-    "releaseStatus": "estimated",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-178_M.psd:4b7f337383c4f0b449e5cf88eeeb673b",
     "goldenMaterial": "CFM_310t_PremiumCard.mat:3fc25b415125b3b438b95fb0de64a06d",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": null,
+    "releaseStatus": "pending",
+    "initialSpecStatus": "pending-first-playable",
+    "initialSpec": null,
+    "patches": [],
+    "knownEvents": []
   }
 }
