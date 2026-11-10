@@ -1,1 +1,96 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_333","dbfId":40678,"name":"핵주먹","type":"MINION","cardClass":"HUNTER","rarity":"LEGENDARY","collectible":true,"cost":5,"text":"이 하수인은 다른 하수인을 공격한 후에, 적 영웅에게도 공격력만큼 피해를 줍니다.","attack":3,"health":7,"durability":0,"armor":0,"flavor":"신체 능력을 비정상적으로 올려주는 바나나를 복용한 적이 있냐고 물었을 때 핵주먹이 대답했습니다. \"나는 다른 이들과 마찬가지로 내 손으로 찍어넘긴 나무에서 난 과일만 먹는다.\"","spellSchool":"","portrait":"HS9-138_M.psd:d3789129f3490b24da0e4eaf0ffbedee","set":"GANGS","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":470,"name":"피해 후 공격 주문 완료","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/CFM_333.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-138_M.psd:d3789129f3490b24da0e4eaf0ffbedee","goldenMaterial":"CFM_333_PremiumCard.mat:62058538437ff7e41bd59db2edfb6e66","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_333",
+    "dbfId": 40678,
+    "name": "핵주먹",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "이 하수인은 다른 하수인을 공격한 후에, 적 영웅에게도 공격력만큼 피해를 줍니다.",
+    "attack": 3,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "신체 능력을 비정상적으로 올려주는 바나나를 복용한 적이 있냐고 물었을 때 핵주먹이 대답했습니다. \"나는 다른 이들과 마찬가지로 내 손으로 찍어넘긴 나무에서 난 과일만 먹는다.\"",
+    "spellSchool": "",
+    "portrait": "HS9-138_M.psd:d3789129f3490b24da0e4eaf0ffbedee",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 470,
+        "name": "피해 후 공격 주문 완료",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/CFM_333.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-138_M.psd:d3789129f3490b24da0e4eaf0ffbedee",
+    "goldenMaterial": "CFM_333_PremiumCard.mat:62058538437ff7e41bd59db2edfb6e66",
+    "goldenAnimation": ""
+  }
+}

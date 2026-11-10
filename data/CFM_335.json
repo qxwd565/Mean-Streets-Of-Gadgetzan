@@ -1,1 +1,86 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_335","dbfId":41126,"name":"습격용 코도","type":"MINION","cardClass":"HUNTER","rarity":"RARE","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> 이 하수인의 공격력만큼 피해를 줍니다.","attack":2,"health":4,"durability":0,"armor":0,"flavor":"\"가젯잔 제1은행에서 호젠 한 무리가 엄청난 양의 비취를 훔쳐 달아났다고 합니다. 습격용 코도 기자가 자세한 소식을 전해드립니다.\"","spellSchool":"","portrait":"HS9-135_M.psd:b2bb37cfd53f16b4fab5b10363f5159a","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/CFM_335.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-135_M.psd:b2bb37cfd53f16b4fab5b10363f5159a","goldenMaterial":"CFM_335_PremiumCard.mat:bb592f6d769d39e46a22e764adc9bcff","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_335",
+    "dbfId": 41126,
+    "name": "습격용 코도",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 이 하수인의 공격력만큼 피해를 줍니다.",
+    "attack": 2,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"가젯잔 제1은행에서 호젠 한 무리가 엄청난 양의 비취를 훔쳐 달아났다고 합니다. 습격용 코도 기자가 자세한 소식을 전해드립니다.\"",
+    "spellSchool": "",
+    "portrait": "HS9-135_M.psd:b2bb37cfd53f16b4fab5b10363f5159a",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/CFM_335.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-135_M.psd:b2bb37cfd53f16b4fab5b10363f5159a",
+    "goldenMaterial": "CFM_335_PremiumCard.mat:bb592f6d769d39e46a22e764adc9bcff",
+    "goldenAnimation": ""
+  }
+}

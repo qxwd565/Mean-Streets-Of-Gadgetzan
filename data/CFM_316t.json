@@ -1,1 +1,70 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_316t","dbfId":41839,"name":"쥐","type":"MINION","cardClass":"HUNTER","collectible":false,"cost":1,"text":"","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS9-105_M.psd:a5f10edf6e6d62648a4909ef304e0306","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/CFM_316t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-105_M.psd:a5f10edf6e6d62648a4909ef304e0306","goldenMaterial":"CFM_316t_PremiumCard.mat:32ebcaee0e031404e8b1550893e50d00","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_316t",
+    "dbfId": 41839,
+    "name": "쥐",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS9-105_M.psd:a5f10edf6e6d62648a4909ef304e0306",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/CFM_316t.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "estimated",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-105_M.psd:a5f10edf6e6d62648a4909ef304e0306",
+    "goldenMaterial": "CFM_316t_PremiumCard.mat:32ebcaee0e031404e8b1550893e50d00",
+    "goldenAnimation": ""
+  }
+}

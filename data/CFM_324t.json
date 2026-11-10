@@ -1,1 +1,73 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_324t","dbfId":41842,"name":"폭풍수호자","type":"MINION","cardClass":"SHAMAN","collectible":false,"cost":5,"text":"<b>도발</b>","attack":10,"health":10,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS9-202_M.psd:8e095aaf24f613146ae01787e5ded0ae","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":10},{"id":47,"name":"공격력","value":10},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":4}],"races":[],"race":"","classes":[],"art":"art/CFM_324t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-202_M.psd:8e095aaf24f613146ae01787e5ded0ae","goldenMaterial":"CFM_324t_PremiumCard.mat:f9a96ae738db3184b80025f6d4f40f52","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_324t",
+    "dbfId": 41842,
+    "name": "폭풍수호자",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "collectible": false,
+    "cost": 5,
+    "text": "<b>도발</b>",
+    "attack": 10,
+    "health": 10,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS9-202_M.psd:8e095aaf24f613146ae01787e5ded0ae",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 10
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 10
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_324t.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "estimated",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-202_M.psd:8e095aaf24f613146ae01787e5ded0ae",
+    "goldenMaterial": "CFM_324t_PremiumCard.mat:f9a96ae738db3184b80025f6d4f40f52",
+    "goldenAnimation": ""
+  }
+}
