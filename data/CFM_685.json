@@ -9,10 +9,10 @@
     "cardClass": "NEUTRAL",
     "rarity": "LEGENDARY",
     "collectible": true,
-    "cost": 7,
+    "cost": 5,
     "text": "<b>전투의 함성:</b> 내 손에 있는 무작위 하수인에게 +5/+5를 부여합니다.",
     "attack": 5,
-    "health": 6,
+    "health": 5,
     "durability": 0,
     "armor": 0,
     "flavor": "험악한 떡대들의 두목 중 하나인 한은 가끔 초를 그냥 두고 가면 어떨까 생각하지만 그런다면 가슴이 찢어지는 느낌이 들까봐 아직까지 참고 있습니다.",
@@ -90,27 +90,237 @@
     ],
     "art": "art/CFM_685.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "partially-verified",
-    "patches": [
-      {
-        "date": "2023-08-23",
-        "changes": {
-          "cost": 5
-        }
-      },
-      {
-        "date": "2023-08-31",
-        "changes": {
-          "health": 5
-        }
-      }
-    ]
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-018_M.psd:2cab008f00ad7a143aee76d49e9c4b80",
     "goldenMaterial": "CFM_685_PremiumCard.mat:745593b47e5d01a41bab98e82fbea761",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "두목 한초",
+      "type": "MINION",
+      "cardClass": "NEUTRAL",
+      "classes": [
+        "HUNTER",
+        "PALADIN",
+        "WARRIOR"
+      ],
+      "rarity": "LEGENDARY",
+      "collectible": true,
+      "cost": 7,
+      "text": "<b>전투의 함성:</b> 내 손에 있는 무작위 하수인에게 +5/+5를 부여합니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 6
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 5
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 7
+        },
+        {
+          "id": 114,
+          "name": "전설 속성",
+          "value": 1
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 12
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 5
+        },
+        {
+          "id": 218,
+          "name": "전투의 함성",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        },
+        {
+          "id": 476,
+          "name": "복수 직업",
+          "value": 532
+        },
+        {
+          "id": 482,
+          "name": "험악한 떡대들",
+          "value": 1
+        },
+        {
+          "id": 2589,
+          "name": "간판 카드 존재",
+          "value": 1
+        }
+      ],
+      "attack": 5,
+      "health": 6,
+      "races": [],
+      "race": ""
+    },
+    "patches": [
+      {
+        "date": "2023-08-23",
+        "changes": {
+          "cost": 5,
+          "nativeTags": [
+            {
+              "id": 45,
+              "name": "생명력",
+              "value": 6
+            },
+            {
+              "id": 47,
+              "name": "공격력",
+              "value": 5
+            },
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 5
+            },
+            {
+              "id": 114,
+              "name": "전설 속성",
+              "value": 1
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 12
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 4
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 5
+            },
+            {
+              "id": 218,
+              "name": "전투의 함성",
+              "value": 1
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            },
+            {
+              "id": 476,
+              "name": "복수 직업",
+              "value": 532
+            },
+            {
+              "id": 482,
+              "name": "험악한 떡대들",
+              "value": 1
+            },
+            {
+              "id": 2589,
+              "name": "간판 카드 존재",
+              "value": 1
+            }
+          ]
+        }
+      },
+      {
+        "date": "2023-08-31",
+        "changes": {
+          "health": 5,
+          "nativeTags": [
+            {
+              "id": 45,
+              "name": "생명력",
+              "value": 5
+            },
+            {
+              "id": 47,
+              "name": "공격력",
+              "value": 5
+            },
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 5
+            },
+            {
+              "id": 114,
+              "name": "전설 속성",
+              "value": 1
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 12
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 4
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 5
+            },
+            {
+              "id": 218,
+              "name": "전투의 함성",
+              "value": 1
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            },
+            {
+              "id": 476,
+              "name": "복수 직업",
+              "value": 532
+            },
+            {
+              "id": 482,
+              "name": "험악한 떡대들",
+              "value": 1
+            },
+            {
+              "id": 2589,
+              "name": "간판 카드 존재",
+              "value": 1
+            }
+          ]
+        }
+      }
+    ],
+    "knownEvents": []
   }
 }

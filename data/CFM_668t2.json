@@ -60,15 +60,22 @@
     "race": "",
     "classes": [],
     "art": "art/CFM_668t2.png",
-    "releasedAt": "2016-12-02",
-    "releaseStatus": "estimated",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-209_M.psd:a90008bc3990dcb46b94bdfa119d707f",
     "goldenMaterial": "CFM_668t_PremiumCard.mat:68b7aa218020ed34fb761b49dd886c09",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": null,
+    "releaseStatus": "pending",
+    "initialSpecStatus": "pending-first-playable",
+    "initialSpec": null,
+    "patches": [],
+    "knownEvents": []
   }
 }

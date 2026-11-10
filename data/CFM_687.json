@@ -71,14 +71,81 @@
     "classes": [],
     "art": "art/CFM_687.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-125_M.psd:4a2deef7475a22042889189d90dfec34",
     "goldenMaterial": "CFM_687_PremiumCard.mat:42d848cd93af6f3498b20bd8c67fb6e1",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "문신사 솔리아",
+      "type": "MINION",
+      "cardClass": "MAGE",
+      "classes": [],
+      "rarity": "LEGENDARY",
+      "collectible": true,
+      "cost": 7,
+      "text": "<b>전투의 함성:</b> 내 덱에 똑같은 카드가 없으면, 이번 턴에 내가 시전하는 다음 주문의 비용이 (0)이 됩니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 5
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 5
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 7
+        },
+        {
+          "id": 114,
+          "name": "전설 속성",
+          "value": 1
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 4
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 5
+        },
+        {
+          "id": 218,
+          "name": "전투의 함성",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "attack": 5,
+      "health": 5,
+      "races": [],
+      "race": ""
+    },
+    "patches": [],
+    "knownEvents": []
   }
 }

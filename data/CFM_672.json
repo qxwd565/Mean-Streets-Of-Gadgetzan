@@ -71,14 +71,88 @@
     "classes": [],
     "art": "art/CFM_672.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-181_M.psd:aa07e45b00bcbbb41bdde6c041d20a8f",
     "goldenMaterial": "CFM_672_PremiumCard.mat:10acabef272bc574ebc357b3b7fc5129",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "마님 고야",
+      "type": "MINION",
+      "cardClass": "NEUTRAL",
+      "classes": [],
+      "rarity": "LEGENDARY",
+      "collectible": true,
+      "cost": 6,
+      "text": "<b>전투의 함성:</b><br></br>아군 하수인을 선택합니다.<br></br>내 덱에 있는 무작위 하수인과 교체합니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 3
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 4
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 6
+        },
+        {
+          "id": 114,
+          "name": "전설 속성",
+          "value": 1
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 12
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 5
+        },
+        {
+          "id": 218,
+          "name": "전투의 함성",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "attack": 4,
+      "health": 3,
+      "races": [],
+      "race": ""
+    },
+    "patches": [
+      {
+        "date": "2023-12-06",
+        "changes": {
+          "text": "<b>전투의 함성:</b><br></br>아군 하수인을 선택합니다.<br></br>내 덱에 있는 그 하수인을<br></br>모두 소환합니다."
+        }
+      }
+    ],
+    "knownEvents": []
   }
 }
