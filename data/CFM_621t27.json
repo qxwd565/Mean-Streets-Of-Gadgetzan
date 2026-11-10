@@ -38,26 +38,28 @@
         "id": 202,
         "name": "카드 유형",
         "value": 5
-      },
-      {
-        "id": 208,
-        "name": "빙결",
-        "value": 1
       }
     ],
     "races": [],
     "race": "",
     "classes": [],
     "art": "art/CFM_621t27.png",
-    "releasedAt": "2016-12-02",
-    "releaseStatus": "estimated",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releasedAt": null,
+    "releaseStatus": "pending"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-212e_S.psd:994b23ec29702c640aff1771e2312d67",
     "goldenMaterial": "CFM_621t28_PremiumCard.mat:1ed6dc9aa3739b64fbb38de07d9bbef1",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": null,
+    "releaseStatus": "pending",
+    "initialSpecStatus": "pending-first-playable",
+    "initialSpec": null,
+    "patches": [],
+    "knownEvents": []
   }
 }
