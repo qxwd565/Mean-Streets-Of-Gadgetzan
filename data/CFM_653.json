@@ -66,14 +66,76 @@
     "classes": [],
     "art": "art/CFM_653.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-130_M.psd:e5a697a477e22554688d212d42abd175",
     "goldenMaterial": "CFM_653_PremiumCard.mat:f185f083fdf476f40897f0c124ec776f",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "고용된 싸움꾼",
+      "type": "MINION",
+      "cardClass": "NEUTRAL",
+      "classes": [],
+      "rarity": "COMMON",
+      "collectible": true,
+      "cost": 3,
+      "text": "<b>도발</b>",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 3
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 4
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 3
+        },
+        {
+          "id": 190,
+          "name": "도발",
+          "value": 1
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 12
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "attack": 4,
+      "health": 3,
+      "races": [],
+      "race": ""
+    },
+    "patches": [],
+    "knownEvents": []
   }
 }

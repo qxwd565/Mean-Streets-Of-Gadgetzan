@@ -66,14 +66,76 @@
     "classes": [],
     "art": "art/CFM_660.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-056_M.psd:974050ef993523544bae6c17135d037a",
     "goldenMaterial": "CFM_660_PremiumCard.mat:308980195536053498546ef75836f46b",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "이성을 잃은 영혼술사",
+      "type": "MINION",
+      "cardClass": "MAGE",
+      "classes": [],
+      "rarity": "EPIC",
+      "collectible": true,
+      "cost": 3,
+      "text": "<b>전투의 함성:</b> 아군 하수인을 선택합니다. 그 하수인을 복사하여 내 덱에 섞어 넣습니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 4
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 3
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 3
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 4
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 4
+        },
+        {
+          "id": 218,
+          "name": "전투의 함성",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "attack": 3,
+      "health": 4,
+      "races": [],
+      "race": ""
+    },
+    "patches": [],
+    "knownEvents": []
   }
 }

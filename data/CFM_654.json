@@ -66,14 +66,76 @@
     "classes": [],
     "art": "art/CFM_654.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-004_M.psd:a2121096d0efa424d8453955dfc33200",
     "goldenMaterial": "CFM_654_PremiumCard.mat:79787a6b911f86544919b976adad02db",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "친근한 바텐더",
+      "type": "MINION",
+      "cardClass": "NEUTRAL",
+      "classes": [],
+      "rarity": "COMMON",
+      "collectible": true,
+      "cost": 2,
+      "text": "내 턴이 끝날 때,<br></br>내 영웅의 생명력을<br></br>#1 회복시킵니다.",
+      "nativeTags": [
+        {
+          "id": 32,
+          "name": "발동 효과 표시",
+          "value": 1
+        },
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 3
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 2
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 2
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 12
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "attack": 2,
+      "health": 3,
+      "races": [],
+      "race": ""
+    },
+    "patches": [],
+    "knownEvents": []
   }
 }
