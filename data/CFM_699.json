@@ -73,14 +73,83 @@
     "classes": [],
     "art": "art/CFM_699.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-060_M.psd:1be821278d1870d41b585043b2dbe606",
     "goldenMaterial": "CFM_699_PremiumCard.mat:146eb80e0879d6d428112178e381d072",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "바다아귀 쐐기술사",
+      "type": "MINION",
+      "cardClass": "WARLOCK",
+      "classes": [],
+      "rarity": "RARE",
+      "collectible": true,
+      "cost": 4,
+      "text": "<b>전투의 함성:</b> 이번 턴에 내가 내는 다음 멀록은 마나 대신 생명력을 비용으로 사용합니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 2
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 4
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 4
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 9
+        },
+        {
+          "id": 200,
+          "name": "종족",
+          "value": 14
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 3
+        },
+        {
+          "id": 218,
+          "name": "전투의 함성",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "attack": 4,
+      "health": 2,
+      "races": [
+        "MURLOC"
+      ],
+      "race": "멀록"
+    },
+    "patches": [],
+    "knownEvents": []
   }
 }

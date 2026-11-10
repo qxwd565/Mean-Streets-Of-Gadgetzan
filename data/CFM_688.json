@@ -36,16 +36,6 @@
         "value": 5
       },
       {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 197,
-        "name": "돌진",
-        "value": 1
-      },
-      {
         "id": 199,
         "name": "직업",
         "value": 12
@@ -76,13 +66,82 @@
         "value": 1
       }
     ],
-    "races": [],
-    "race": "",
+    "races": [
+      "QUILBOAR"
+    ],
+    "race": "가시멧돼지",
     "classes": [],
     "art": "art/CFM_688.png",
     "releasedAt": "2016-12-02",
+    "releaseStatus": "verified"
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-027_M.psd:826abc692cda2264ba60db16cd337c62",
+    "goldenMaterial": "CFM_688_PremiumCard.mat:ee3e4f9d05062194db24ae8b24dd494c",
+    "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
     "releaseStatus": "verified",
-    "initialSpecStatus": "partially-verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "멧돼지단 돌격수",
+      "type": "MINION",
+      "cardClass": "NEUTRAL",
+      "classes": [],
+      "rarity": "RARE",
+      "collectible": true,
+      "cost": 5,
+      "text": "<b>전투의 함성:</b> 적에게 <b>도발</b> 하수인이 있으면, <b>돌진</b>을 얻습니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 5
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 5
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 5
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 12
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 3
+        },
+        {
+          "id": 218,
+          "name": "전투의 함성",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "attack": 5,
+      "health": 5,
+      "races": [],
+      "race": ""
+    },
     "patches": [
       {
         "date": "2021-05-05",
@@ -90,15 +149,71 @@
           "races": [
             "QUILBOAR"
           ],
-          "race": "가시멧돼지"
+          "race": "가시멧돼지",
+          "nativeTags": [
+            {
+              "id": 45,
+              "name": "생명력",
+              "value": 5
+            },
+            {
+              "id": 47,
+              "name": "공격력",
+              "value": 5
+            },
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 5
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 12
+            },
+            {
+              "id": 200,
+              "name": "종족",
+              "value": 43
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 4
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 3
+            },
+            {
+              "id": 218,
+              "name": "전투의 함성",
+              "value": 1
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            }
+          ]
         }
       }
-    ]
-  },
-  "artworkProvenance": {
-    "source": "installed Hearthstone native assets",
-    "portrait": "HS9-027_M.psd:826abc692cda2264ba60db16cd337c62",
-    "goldenMaterial": "CFM_688_PremiumCard.mat:ee3e4f9d05062194db24ae8b24dd494c",
-    "goldenAnimation": ""
+    ],
+    "knownEvents": [],
+    "tagReferences": {
+      "2016-12-02": [
+        {
+          "id": 190,
+          "name": "도발",
+          "value": 1
+        },
+        {
+          "id": 197,
+          "name": "돌진",
+          "value": 1
+        }
+      ]
+    }
   }
 }

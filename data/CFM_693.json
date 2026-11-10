@@ -66,14 +66,76 @@
     "classes": [],
     "art": "art/CFM_693.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-166_M.psd:9d3ca714850f4be458ebe3aec7a2cb76",
     "goldenMaterial": "CFM_693_PremiumCard.mat:631c714ee4aad5848965d930baea9654",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "가젯잔 뱃사공",
+      "type": "MINION",
+      "cardClass": "ROGUE",
+      "classes": [],
+      "rarity": "RARE",
+      "collectible": true,
+      "cost": 2,
+      "text": "<b>연계:</b> 아군 하수인을<br></br>내 손으로 다시 가져옵니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 3
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 2
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 2
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 7
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 3
+        },
+        {
+          "id": 220,
+          "name": "연계",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "attack": 2,
+      "health": 3,
+      "races": [],
+      "race": ""
+    },
+    "patches": [],
+    "knownEvents": []
   }
 }

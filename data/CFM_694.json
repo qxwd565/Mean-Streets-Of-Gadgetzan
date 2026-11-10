@@ -36,11 +36,6 @@
         "value": 4
       },
       {
-        "id": 191,
-        "name": "은신",
-        "value": 1
-      },
-      {
         "id": 199,
         "name": "직업",
         "value": 7
@@ -71,14 +66,85 @@
     "classes": [],
     "art": "art/CFM_694.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-170_M.psd:0c4406c1b1342e844a452b193c603803",
     "goldenMaterial": "CFM_694_PremiumCard.mat:ba6bdfb9abfd97b47856756a5a88f4dc",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "그림자 사부",
+      "type": "MINION",
+      "cardClass": "ROGUE",
+      "classes": [],
+      "rarity": "RARE",
+      "collectible": true,
+      "cost": 4,
+      "text": "<b>전투의 함성:</b><br></br><b>은신</b>한 하수인에게 +2/+2를 부여합니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 4
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 4
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 4
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 7
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 3
+        },
+        {
+          "id": 218,
+          "name": "전투의 함성",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "attack": 4,
+      "health": 4,
+      "races": [],
+      "race": ""
+    },
+    "patches": [],
+    "knownEvents": [],
+    "tagReferences": {
+      "2016-12-02": [
+        {
+          "id": 191,
+          "name": "은신",
+          "value": 1
+        }
+      ]
+    }
   }
 }
