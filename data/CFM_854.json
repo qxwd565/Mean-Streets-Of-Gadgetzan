@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_854","dbfId":40744,"name":"꽃의 고대정령","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":6,"text":"<b>도발</b>","attack":3,"health":8,"durability":0,"armor":0,"flavor":"새 샴푸가 효과가 아주 좋네요!","spellSchool":"","portrait":"HS9-070_M.psd:ce1bef60ad7474145962d1e24d08fc54","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":6},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/CFM_854.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-070_M.psd:ce1bef60ad7474145962d1e24d08fc54","goldenMaterial":"CFM_854_PremiumCard.mat:e92d7c6f989a1ab43bb1047280a12bbd","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_854",
+    "dbfId": 40744,
+    "name": "꽃의 고대정령",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>도발</b>",
+    "attack": 3,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "새 샴푸가 효과가 아주 좋네요!",
+    "spellSchool": "",
+    "portrait": "HS9-070_M.psd:ce1bef60ad7474145962d1e24d08fc54",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_854.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-070_M.psd:ce1bef60ad7474145962d1e24d08fc54",
+    "goldenMaterial": "CFM_854_PremiumCard.mat:e92d7c6f989a1ab43bb1047280a12bbd",
+    "goldenAnimation": ""
+  }
+}

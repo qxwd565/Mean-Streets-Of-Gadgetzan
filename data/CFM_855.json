@@ -1,1 +1,89 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_855","dbfId":40745,"name":"데피아즈단 청부업자","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":6,"text":"<b>전투의 함성:</b> <b>죽음의 메아리</b> 하수인을 <b>침묵</b>시킵니다.","attack":5,"health":7,"durability":0,"armor":0,"flavor":"의뢰라면 집 청소도 마다하지 않습니다. 그런데 놀라운 점은, 아주 깨끗하게 일을 처리한다는 거죠.","spellSchool":"","portrait":"HS9-048_M_New.psd:9b698c6321143ec44a6c3d6852cf265d","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":339,"name":"침묵","value":1}],"races":[],"race":"","classes":[],"art":"art/CFM_855.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-048_M_New.psd:9b698c6321143ec44a6c3d6852cf265d","goldenMaterial":"CFM_855_PremiumCard.mat:4df9194dc09123042b7f32304972949e","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_855",
+    "dbfId": 40745,
+    "name": "데피아즈단 청부업자",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>전투의 함성:</b> <b>죽음의 메아리</b> 하수인을 <b>침묵</b>시킵니다.",
+    "attack": 5,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "의뢰라면 집 청소도 마다하지 않습니다. 그런데 놀라운 점은, 아주 깨끗하게 일을 처리한다는 거죠.",
+    "spellSchool": "",
+    "portrait": "HS9-048_M_New.psd:9b698c6321143ec44a6c3d6852cf265d",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 339,
+        "name": "침묵",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_855.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-048_M_New.psd:9b698c6321143ec44a6c3d6852cf265d",
+    "goldenMaterial": "CFM_855_PremiumCard.mat:4df9194dc09123042b7f32304972949e",
+    "goldenAnimation": ""
+  }
+}
