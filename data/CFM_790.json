@@ -86,14 +86,96 @@
     "classes": [],
     "art": "art/CFM_790.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-011_M.psd:55bf5ef7a7ed7ac4c84cb04829c6c91d",
     "goldenMaterial": "CFM_790_PremiumCard.mat:437a9f362ae5c2b498aeb9493c659ca7",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "비겁한 밀고자",
+      "type": "MINION",
+      "cardClass": "NEUTRAL",
+      "classes": [],
+      "rarity": "EPIC",
+      "collectible": true,
+      "cost": 2,
+      "text": "<b>도발</b>, <b>전투의 함성</b>:<br></br>상대편이 손에서<br></br>무작위 하수인을 소환합니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 6
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 2
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 2
+        },
+        {
+          "id": 190,
+          "name": "도발",
+          "value": 1
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 12
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 4
+        },
+        {
+          "id": 218,
+          "name": "전투의 함성",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        },
+        {
+          "id": 2589,
+          "name": "간판 카드 존재",
+          "value": 1
+        },
+        {
+          "id": 4533,
+          "name": "제작 결과 능력",
+          "value": 1
+        },
+        {
+          "id": 4547,
+          "name": "게임 태그 4547",
+          "value": 1
+        }
+      ],
+      "attack": 2,
+      "health": 6,
+      "races": [],
+      "race": ""
+    },
+    "patches": [],
+    "knownEvents": []
   }
 }

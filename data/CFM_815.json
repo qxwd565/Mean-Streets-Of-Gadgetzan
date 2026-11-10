@@ -81,14 +81,214 @@
     "classes": [],
     "art": "art/CFM_815.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-159_M.psd:6d1d0fea5aaa02f48a91248388cd2f60",
     "goldenMaterial": "CFM_815_PremiumCard.mat:f8798c08c8abd3d40aa99ffdf98343d7",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "불꽃수염 번브리슬",
+      "type": "MINION",
+      "cardClass": "PALADIN",
+      "classes": [],
+      "rarity": "LEGENDARY",
+      "collectible": true,
+      "cost": 3,
+      "text": "<b>도발</b><br></br><b>천상의 보호막</b><br></br>이 하수인이 피해를 줄 때마다 내 영웅의 생명력을 그만큼 회복시킵니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 2
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 2
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 3
+        },
+        {
+          "id": 114,
+          "name": "전설 속성",
+          "value": 1
+        },
+        {
+          "id": 190,
+          "name": "도발",
+          "value": 1
+        },
+        {
+          "id": 194,
+          "name": "천상의 보호막",
+          "value": 1
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 5
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 5
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "attack": 2,
+      "health": 2,
+      "races": [],
+      "race": ""
+    },
+    "patches": [
+      {
+        "date": "2017-08-09",
+        "changes": {
+          "text": "<b>도발</b><br></br><b>천상의 보호막</b><br></br><b>생명력 흡수</b>",
+          "nativeTags": [
+            {
+              "id": 45,
+              "name": "생명력",
+              "value": 2
+            },
+            {
+              "id": 47,
+              "name": "공격력",
+              "value": 2
+            },
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 3
+            },
+            {
+              "id": 114,
+              "name": "전설 속성",
+              "value": 1
+            },
+            {
+              "id": 190,
+              "name": "도발",
+              "value": 1
+            },
+            {
+              "id": 194,
+              "name": "천상의 보호막",
+              "value": 1
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 5
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 4
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 5
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            },
+            {
+              "id": 685,
+              "name": "생명력 흡수",
+              "value": 1
+            }
+          ]
+        }
+      },
+      {
+        "date": "2023-08-23",
+        "changes": {
+          "attack": 3,
+          "health": 3,
+          "nativeTags": [
+            {
+              "id": 45,
+              "name": "생명력",
+              "value": 3
+            },
+            {
+              "id": 47,
+              "name": "공격력",
+              "value": 3
+            },
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 3
+            },
+            {
+              "id": 114,
+              "name": "전설 속성",
+              "value": 1
+            },
+            {
+              "id": 190,
+              "name": "도발",
+              "value": 1
+            },
+            {
+              "id": 194,
+              "name": "천상의 보호막",
+              "value": 1
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 5
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 4
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 5
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            },
+            {
+              "id": 685,
+              "name": "생명력 흡수",
+              "value": 1
+            }
+          ]
+        }
+      }
+    ],
+    "knownEvents": []
   }
 }

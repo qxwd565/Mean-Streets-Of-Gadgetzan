@@ -16,7 +16,7 @@
     "durability": 0,
     "armor": 0,
     "flavor": "달의 계시의 가장 신기한 점은 구경할 채널은 너무나 많은데 정작 볼 건 없다는 겁니다.",
-    "spellSchool": "",
+    "spellSchool": "ARCANE",
     "portrait": "HS9-085_S.psd:d647382b736ec654c8e28910e3ad1290",
     "set": "GANGS",
     "nativeTags": [
@@ -56,21 +56,97 @@
     "classes": [],
     "art": "art/CFM_811.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "partially-verified",
-    "patches": [
-      {
-        "date": "2021-03-26",
-        "changes": {
-          "spellSchool": "ARCANE"
-        }
-      }
-    ]
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-085_S.psd:d647382b736ec654c8e28910e3ad1290",
     "goldenMaterial": "CFM_811_PremiumCard.mat:7b496ab05420fa44c9a7b0d8984451bd",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "달의 계시",
+      "type": "SPELL",
+      "cardClass": "DRUID",
+      "classes": [],
+      "rarity": "EPIC",
+      "collectible": true,
+      "cost": 5,
+      "text": "카드를 2장 뽑습니다.<br></br>하수인이면, 비용이<br></br>(2) 감소합니다.",
+      "nativeTags": [
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 5
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 2
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 5
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 4
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "spellSchool": ""
+    },
+    "patches": [
+      {
+        "date": "2021-03-26",
+        "changes": {
+          "spellSchool": "ARCANE",
+          "nativeTags": [
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 5
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 2
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 5
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 4
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            },
+            {
+              "id": 1635,
+              "name": "주문 속성",
+              "value": 1
+            }
+          ]
+        }
+      }
+    ],
+    "knownEvents": []
   }
 }

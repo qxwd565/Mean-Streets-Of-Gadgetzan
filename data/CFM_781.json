@@ -86,14 +86,171 @@
     "classes": [],
     "art": "art/CFM_781.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-184_M.psd:ebaa1926d3ef18e469f31618e582de2e",
     "goldenMaterial": "CFM_781_PremiumCard.mat:7b7ee2d629ef02044acd594ba0867b4d",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "수집가 샤쿠",
+      "type": "MINION",
+      "cardClass": "ROGUE",
+      "classes": [],
+      "rarity": "LEGENDARY",
+      "collectible": true,
+      "cost": 3,
+      "text": "<b>은신</b>, 이 하수인이 공격할 때마다 상대편 직업의 카드를 내 손으로 가져옵니다.",
+      "nativeTags": [
+        {
+          "id": 32,
+          "name": "발동 효과 표시",
+          "value": 1
+        },
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 3
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 2
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 3
+        },
+        {
+          "id": 114,
+          "name": "전설 속성",
+          "value": 1
+        },
+        {
+          "id": 191,
+          "name": "은신",
+          "value": 1
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 7
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 5
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        },
+        {
+          "id": 4533,
+          "name": "제작 결과 능력",
+          "value": 1
+        },
+        {
+          "id": 4975,
+          "name": "게임 태그 4975",
+          "value": 1
+        }
+      ],
+      "attack": 2,
+      "health": 3,
+      "races": [],
+      "race": ""
+    },
+    "patches": [
+      {
+        "date": "2025-03-19",
+        "changes": {
+          "health": 4,
+          "nativeTags": [
+            {
+              "id": 32,
+              "name": "발동 효과 표시",
+              "value": 1
+            },
+            {
+              "id": 45,
+              "name": "생명력",
+              "value": 4
+            },
+            {
+              "id": 47,
+              "name": "공격력",
+              "value": 2
+            },
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 3
+            },
+            {
+              "id": 114,
+              "name": "전설 속성",
+              "value": 1
+            },
+            {
+              "id": 191,
+              "name": "은신",
+              "value": 1
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 7
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 4
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 5
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            },
+            {
+              "id": 4533,
+              "name": "제작 결과 능력",
+              "value": 1
+            },
+            {
+              "id": 4975,
+              "name": "게임 태그 4975",
+              "value": 1
+            }
+          ]
+        }
+      },
+      {
+        "date": "2026-03-11",
+        "changes": {
+          "text": "<b>은신</b>, 이 하수인이 공격할 때마다 다른 직업의 카드를 내 손으로 가져옵니다."
+        }
+      }
+    ],
+    "knownEvents": []
   }
 }
