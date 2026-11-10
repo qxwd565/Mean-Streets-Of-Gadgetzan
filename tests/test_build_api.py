@@ -1,11 +1,13 @@
+import importlib.util
 import json
-import sys
 import tempfile
 import unittest
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "tools"))
-import build_api
+module_path = Path(__file__).resolve().parents[1] / "tools" / "build-api.py"
+spec = importlib.util.spec_from_file_location("build_api", module_path)
+build_api = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(build_api)
 
 
 class BuildApiTests(unittest.TestCase):
