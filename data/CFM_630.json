@@ -51,14 +51,58 @@
     "classes": [],
     "art": "art/CFM_630.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-179_S.psd:a0dd646fd4b18c04094b50674300b279",
     "goldenMaterial": "CFM_630_PremiumCard.mat:bc0cac80011765a45acde22d9cf9f010",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "위조된 동전",
+      "type": "SPELL",
+      "cardClass": "ROGUE",
+      "classes": [],
+      "rarity": "RARE",
+      "collectible": true,
+      "cost": 0,
+      "text": "이번 턴에만 마나 수정을 1개 얻습니다.",
+      "nativeTags": [
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 7
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 5
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 3
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        },
+        {
+          "id": 3329,
+          "name": "게임 태그 3329",
+          "value": 1
+        }
+      ],
+      "spellSchool": ""
+    },
+    "patches": [],
+    "knownEvents": []
   }
 }
