@@ -1,1 +1,53 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_621t15","dbfId":41604,"name":"카자쿠스의 물약","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":10,"text":"","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS9-212b_S.psd:b9c10dbd3442d7448bb2d66c5dda7610","set":"GANGS","nativeTags":[{"id":48,"name":"마나 비용","value":10},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/CFM_621t15.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-212b_S.psd:b9c10dbd3442d7448bb2d66c5dda7610","goldenMaterial":"CFM_621t28_PremiumCard.mat:971b1693ec3779240ab1903c29884164","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_621t15",
+    "dbfId": 41604,
+    "name": "카자쿠스의 물약",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 10,
+    "text": "",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS9-212b_S.psd:b9c10dbd3442d7448bb2d66c5dda7610",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 10
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_621t15.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "estimated",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-212b_S.psd:b9c10dbd3442d7448bb2d66c5dda7610",
+    "goldenMaterial": "CFM_621t28_PremiumCard.mat:971b1693ec3779240ab1903c29884164",
+    "goldenAnimation": ""
+  }
+}

@@ -1,1 +1,58 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_621t21","dbfId":41617,"name":"신비한 양모","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":5,"text":"무작위 적 하수인을 1/1 양으로 변신시킵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS9-211f2_S.psd:247d0efd9397eb246b001182327c689b","set":"GANGS","nativeTags":[{"id":2,"name":"효과 수치 1","value":1},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/CFM_621t21.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-211f2_S.psd:247d0efd9397eb246b001182327c689b","goldenMaterial":"CFM_621t20_PremiumCard.mat:a9df9d06b898d254184a9c7959bed079","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_621t21",
+    "dbfId": 41617,
+    "name": "신비한 양모",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 5,
+    "text": "무작위 적 하수인을 1/1 양으로 변신시킵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS9-211f2_S.psd:247d0efd9397eb246b001182327c689b",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_621t21.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "estimated",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-211f2_S.psd:247d0efd9397eb246b001182327c689b",
+    "goldenMaterial": "CFM_621t20_PremiumCard.mat:a9df9d06b898d254184a9c7959bed079",
+    "goldenAnimation": ""
+  }
+}
