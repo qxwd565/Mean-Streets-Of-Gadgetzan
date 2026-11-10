@@ -1,0 +1,42 @@
+name: Verify Gadgetzan API
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "release-policy.json"
+      - "tools/build-api.py"
+      - "tests/**"
+      - "cards.json"
+      - "render.json"
+      - "history.json"
+      - "timeline-index.json"
+      - "history-audit.json"
+      - "pending-history.json"
+      - ".github/workflows/verify-api.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-and-regression:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Unit tests
+        run: python -m unittest discover -s tests -v
+      - name: First build
+        run: python tools/build-api.py
+      - name: First build must be clean
+        run: git diff --exit-code -- cards.json render.json history.json
+      - name: Second build
+        run: python tools/build-api.py
+      - name: Second build must be clean
+        run: git diff --exit-code -- cards.json render.json history.json
+      - name: Read-only check
+        run: python tools/build-api.py --check
