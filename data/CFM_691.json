@@ -1,1 +1,94 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_691","dbfId":40697,"name":"비취 무리전사","type":"MINION","cardClass":"ROGUE","rarity":"COMMON","collectible":true,"cost":1,"text":"<b>은신</b>, <b>죽음의 메아리:</b>\n<b>비취 골렘</b>을 소환합니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"무리를 짓는 걸 즐깁니다. 무리해서라도요! ...죄송합니다. 무리수였네요.","spellSchool":"","portrait":"HS9-167_M.psd:583f64a5cc7f5cd4eb37a90a6148390d","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":191,"name":"은신","value":1},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":441,"name":"비취 골렘","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":42098}],"races":[],"race":"","classes":[],"art":"art/CFM_691.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-167_M.psd:583f64a5cc7f5cd4eb37a90a6148390d","goldenMaterial":"CFM_691_PremiumCard.mat:f550d6d56b4957546af96c0756ae5499","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_691",
+    "dbfId": 40697,
+    "name": "비취 무리전사",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>은신</b>, <b>죽음의 메아리:</b><br></br><b>비취 골렘</b>을 소환합니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "무리를 짓는 걸 즐깁니다. 무리해서라도요! ...죄송합니다. 무리수였네요.",
+    "spellSchool": "",
+    "portrait": "HS9-167_M.psd:583f64a5cc7f5cd4eb37a90a6148390d",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 191,
+        "name": "은신",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 441,
+        "name": "비취 골렘",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 42098
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_691.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-167_M.psd:583f64a5cc7f5cd4eb37a90a6148390d",
+    "goldenMaterial": "CFM_691_PremiumCard.mat:f550d6d56b4957546af96c0756ae5499",
+    "goldenAnimation": ""
+  }
+}

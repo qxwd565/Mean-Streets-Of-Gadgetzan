@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_690","dbfId":40698,"name":"비취 수리검","type":"SPELL","cardClass":"ROGUE","rarity":"COMMON","collectible":true,"cost":2,"text":"피해를 $3 줍니다.\n<b>연계:</b> <b>비취 골렘</b>을\n소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"몸에 박혀도 빼내서 의료비로 쓸 수 있으니 그리 위협적이진 않겠군요.","spellSchool":"","portrait":"HS9-090_S.psd:37891f3da1759b74487d0ee9ae58327a","set":"GANGS","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":220,"name":"연계","value":1},{"id":321,"name":"수집 가능","value":1},{"id":441,"name":"비취 골렘","value":1},{"id":443,"name":"선택","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":42098}],"races":[],"race":"","classes":[],"art":"art/CFM_690.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-090_S.psd:37891f3da1759b74487d0ee9ae58327a","goldenMaterial":"CFM_690_PremiumCard.mat:7ebd5cd03be337740b1528e9b065b705","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_690",
+    "dbfId": 40698,
+    "name": "비취 수리검",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "피해를 $3 줍니다.<br></br><b>연계:</b> <b>비취 골렘</b>을<br></br>소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "몸에 박혀도 빼내서 의료비로 쓸 수 있으니 그리 위협적이진 않겠군요.",
+    "spellSchool": "",
+    "portrait": "HS9-090_S.psd:37891f3da1759b74487d0ee9ae58327a",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 220,
+        "name": "연계",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 441,
+        "name": "비취 골렘",
+        "value": 1
+      },
+      {
+        "id": 443,
+        "name": "선택",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 42098
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_690.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-090_S.psd:37891f3da1759b74487d0ee9ae58327a",
+    "goldenMaterial": "CFM_690_PremiumCard.mat:7ebd5cd03be337740b1528e9b065b705",
+    "goldenAnimation": ""
+  }
+}

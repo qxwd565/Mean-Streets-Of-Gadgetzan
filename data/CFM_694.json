@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_694","dbfId":40695,"name":"그림자 사부","type":"MINION","cardClass":"ROGUE","rarity":"RARE","collectible":true,"cost":4,"text":"<b>전투의 함성:</b>\n<b>은신</b>한 하수인에게 +2/+2를 부여합니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"원래는 아이야의 스승이었지만 윙윙거리는 소리가 너무 심해서 해고당했습니다.","spellSchool":"","portrait":"HS9-170_M.psd:0c4406c1b1342e844a452b193c603803","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":191,"name":"은신","value":1},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/CFM_694.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-170_M.psd:0c4406c1b1342e844a452b193c603803","goldenMaterial":"CFM_694_PremiumCard.mat:ba6bdfb9abfd97b47856756a5a88f4dc","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_694",
+    "dbfId": 40695,
+    "name": "그림자 사부",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b><br></br><b>은신</b>한 하수인에게 +2/+2를 부여합니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "원래는 아이야의 스승이었지만 윙윙거리는 소리가 너무 심해서 해고당했습니다.",
+    "spellSchool": "",
+    "portrait": "HS9-170_M.psd:0c4406c1b1342e844a452b193c603803",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 191,
+        "name": "은신",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_694.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-170_M.psd:0c4406c1b1342e844a452b193c603803",
+    "goldenMaterial": "CFM_694_PremiumCard.mat:ba6bdfb9abfd97b47856756a5a88f4dc",
+    "goldenAnimation": ""
+  }
+}

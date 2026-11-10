@@ -1,1 +1,73 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_712_t01","dbfId":42098,"name":"비취 골렘","type":"MINION","cardClass":"NEUTRAL","collectible":false,"cost":1,"text":"","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS9-173a_M.psd:ccb01edcba34fbc40b8c4d042da2f787","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":441,"name":"비취 골렘","value":1},{"id":2428,"name":"게임 태그 2428","value":1}],"races":[],"race":"","classes":[],"art":"art/CFM_712_t01.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-173a_M.psd:ccb01edcba34fbc40b8c4d042da2f787","goldenMaterial":"CFM_712_t01_PremiumCard.mat:e7a9c85e4a136364397a0e32049edf55","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_712_t01",
+    "dbfId": 42098,
+    "name": "비취 골렘",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS9-173a_M.psd:ccb01edcba34fbc40b8c4d042da2f787",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 441,
+        "name": "비취 골렘",
+        "value": 1
+      },
+      {
+        "id": 2428,
+        "name": "게임 태그 2428",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_712_t01.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "estimated",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-173a_M.psd:ccb01edcba34fbc40b8c4d042da2f787",
+    "goldenMaterial": "CFM_712_t01_PremiumCard.mat:e7a9c85e4a136364397a0e32049edf55",
+    "goldenAnimation": ""
+  }
+}
