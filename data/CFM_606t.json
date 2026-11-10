@@ -1,1 +1,78 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_606t","dbfId":42053,"name":"수정","type":"MINION","cardClass":"PRIEST","collectible":false,"cost":2,"text":"","attack":2,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS9-213_M.psd:ef0aa6515aa2ca940acb81daef232873","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/CFM_606t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-213_M.psd:ef0aa6515aa2ca940acb81daef232873","goldenMaterial":"CFM_606t_PremiumCard.mat:8d7a2f0db87b31a439ce9545b48b83f8","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_606t",
+    "dbfId": 42053,
+    "name": "수정",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "collectible": false,
+    "cost": 2,
+    "text": "",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS9-213_M.psd:ef0aa6515aa2ca940acb81daef232873",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_606t.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "estimated",
+    "initialSpecStatus": "partially-verified",
+    "patches": [
+      {
+        "date": "2017-07-11",
+        "changes": {
+          "races": [
+            "ELEMENTAL"
+          ],
+          "race": "정령"
+        }
+      }
+    ]
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-213_M.psd:ef0aa6515aa2ca940acb81daef232873",
+    "goldenMaterial": "CFM_606t_PremiumCard.mat:8d7a2f0db87b31a439ce9545b48b83f8",
+    "goldenAnimation": ""
+  }
+}

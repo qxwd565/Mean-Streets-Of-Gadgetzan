@@ -1,1 +1,53 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_602b","dbfId":41408,"name":"비취 넣기","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":1,"text":"비취 우상 셋을 내 덱에 섞어 넣습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS17-093.psd:0270149184d44a189436c7856db1996e","set":"GANGS","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/CFM_602b.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-093.psd:0270149184d44a189436c7856db1996e","goldenMaterial":"CFM_602b_PremiumCard.mat:1bfb288fc7f07204393d7609de4ad6c4","goldenAnimation":"CFM_602b_PremiumCard.asset:5214f7830606b5f4d87c529e5fe24869"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_602b",
+    "dbfId": 41408,
+    "name": "비취 넣기",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 1,
+    "text": "비취 우상 셋을 내 덱에 섞어 넣습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS17-093.psd:0270149184d44a189436c7856db1996e",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_602b.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "estimated",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS17-093.psd:0270149184d44a189436c7856db1996e",
+    "goldenMaterial": "CFM_602b_PremiumCard.mat:1bfb288fc7f07204393d7609de4ad6c4",
+    "goldenAnimation": "CFM_602b_PremiumCard.asset:5214f7830606b5f4d87c529e5fe24869"
+  }
+}

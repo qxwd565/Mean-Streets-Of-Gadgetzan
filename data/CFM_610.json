@@ -1,1 +1,109 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_610","dbfId":40391,"name":"수정술사","type":"MINION","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> 내 악마들에게 +1/+1을 부여합니다.","attack":5,"health":4,"durability":0,"armor":0,"flavor":"수정을 따뜻한 우유에 적시는 게 비법입니다.","spellSchool":"","portrait":"HS9-119_M.psd:0843db833b1e87e40b821fa9b7c4a78b","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":9},{"id":200,"name":"종족","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1429,"name":"전장 황금 하수인 ID","value":59504},{"id":1440,"name":"선술집 단계","value":3},{"id":1593,"name":"전장 악마 분류","value":1}],"races":["DRAENEI"],"race":"드레나이","classes":[],"art":"art/CFM_610.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-119_M.psd:0843db833b1e87e40b821fa9b7c4a78b","goldenMaterial":"CFM_610_PremiumCard.mat:426f2c3001b9cae4fb19727babefcca9","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_610",
+    "dbfId": 40391,
+    "name": "수정술사",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 내 악마들에게 +1/+1을 부여합니다.",
+    "attack": 5,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "수정을 따뜻한 우유에 적시는 게 비법입니다.",
+    "spellSchool": "",
+    "portrait": "HS9-119_M.psd:0843db833b1e87e40b821fa9b7c4a78b",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1429,
+        "name": "전장 황금 하수인 ID",
+        "value": 59504
+      },
+      {
+        "id": 1440,
+        "name": "선술집 단계",
+        "value": 3
+      },
+      {
+        "id": 1593,
+        "name": "전장 악마 분류",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_610.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "partially-verified",
+    "patches": [
+      {
+        "date": "2024-11-06",
+        "changes": {
+          "races": [
+            "DRAENEI"
+          ],
+          "race": "드레나이"
+        }
+      }
+    ]
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-119_M.psd:0843db833b1e87e40b821fa9b7c4a78b",
+    "goldenMaterial": "CFM_610_PremiumCard.mat:426f2c3001b9cae4fb19727babefcca9",
+    "goldenAnimation": ""
+  }
+}

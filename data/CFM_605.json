@@ -1,1 +1,96 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_605","dbfId":40378,"name":"용기병 비밀요원","type":"MINION","cardClass":"PRIEST","rarity":"RARE","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> 내 손에 용족이 있으면, 상대편의 덱에서 카드를 <b>발견</b>해서 복사해옵니다.","attack":4,"health":5,"durability":0,"armor":0,"flavor":"험악한 떡대들과 비취 연꽃을 염탐하라는 임무를 맡았지만, 척 봐도 용족이라 쉽지 않죠.","spellSchool":"","portrait":"HS9-118_M.psd:c2c1dab92ccc3ca4ab5351921c449c9a","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":24},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1}],"races":["DRAGON"],"race":"용족","classes":[],"art":"art/CFM_605.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-118_M.psd:c2c1dab92ccc3ca4ab5351921c449c9a","goldenMaterial":"CFM_605_PremiumCard.mat:01cc871884104314181cafbceeb361f8","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_605",
+    "dbfId": 40378,
+    "name": "용기병 비밀요원",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 내 손에 용족이 있으면, 상대편의 덱에서 카드를 <b>발견</b>해서 복사해옵니다.",
+    "attack": 4,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "험악한 떡대들과 비취 연꽃을 염탐하라는 임무를 맡았지만, 척 봐도 용족이라 쉽지 않죠.",
+    "spellSchool": "",
+    "portrait": "HS9-118_M.psd:c2c1dab92ccc3ca4ab5351921c449c9a",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 24
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAGON"
+    ],
+    "race": "용족",
+    "classes": [],
+    "art": "art/CFM_605.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-118_M.psd:c2c1dab92ccc3ca4ab5351921c449c9a",
+    "goldenMaterial": "CFM_605_PremiumCard.mat:01cc871884104314181cafbceeb361f8",
+    "goldenAnimation": ""
+  }
+}

@@ -1,1 +1,58 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_602a","dbfId":41409,"name":"비취 조각하기","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":1,"text":"<b>비취 골렘</b>을 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS17-092.psd:042288c00bc24382bfc1195e9f211036","set":"GANGS","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":441,"name":"비취 골렘","value":1}],"races":[],"race":"","classes":[],"art":"art/CFM_602a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-092.psd:042288c00bc24382bfc1195e9f211036","goldenMaterial":"CFM_602a_PremiumCard.mat:23e7ed76a48733849b75f1124e715c74","goldenAnimation":"CFM_602a_PremiumCard.asset:0a50699fae156d24b98ebfcf05bba31c"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_602a",
+    "dbfId": 41409,
+    "name": "비취 조각하기",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>비취 골렘</b>을 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS17-092.psd:042288c00bc24382bfc1195e9f211036",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 441,
+        "name": "비취 골렘",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_602a.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "estimated",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS17-092.psd:042288c00bc24382bfc1195e9f211036",
+    "goldenMaterial": "CFM_602a_PremiumCard.mat:23e7ed76a48733849b75f1124e715c74",
+    "goldenAnimation": "CFM_602a_PremiumCard.asset:0a50699fae156d24b98ebfcf05bba31c"
+  }
+}
