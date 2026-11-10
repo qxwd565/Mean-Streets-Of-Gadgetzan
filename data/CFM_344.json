@@ -83,14 +83,158 @@
     "classes": [],
     "art": "art/CFM_344.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-079_M.psd:c4e4070a6430e6e489610a21ed473d0d",
     "goldenMaterial": "CFM_344_PremiumCard.mat:ba85a8c89d6a33c4884217c8e297709f",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "비성 핀자",
+      "type": "MINION",
+      "cardClass": "NEUTRAL",
+      "classes": [],
+      "rarity": "LEGENDARY",
+      "collectible": true,
+      "cost": 5,
+      "text": "<b>은신</b>, 이 하수인은 공격하여 다른 하수인을 처치할 때마다 내 덱에서 멀록을 2마리 소환합니다.",
+      "nativeTags": [
+        {
+          "id": 32,
+          "name": "발동 효과 표시",
+          "value": 1
+        },
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 4
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 2
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 5
+        },
+        {
+          "id": 114,
+          "name": "전설 속성",
+          "value": 1
+        },
+        {
+          "id": 191,
+          "name": "은신",
+          "value": 1
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 12
+        },
+        {
+          "id": 200,
+          "name": "종족",
+          "value": 14
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 5
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "attack": 2,
+      "health": 4,
+      "races": [
+        "MURLOC"
+      ],
+      "race": "멀록"
+    },
+    "patches": [
+      {
+        "date": "2025-03-19",
+        "changes": {
+          "attack": 3,
+          "health": 5,
+          "nativeTags": [
+            {
+              "id": 32,
+              "name": "발동 효과 표시",
+              "value": 1
+            },
+            {
+              "id": 45,
+              "name": "생명력",
+              "value": 5
+            },
+            {
+              "id": 47,
+              "name": "공격력",
+              "value": 3
+            },
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 5
+            },
+            {
+              "id": 114,
+              "name": "전설 속성",
+              "value": 1
+            },
+            {
+              "id": 191,
+              "name": "은신",
+              "value": 1
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 12
+            },
+            {
+              "id": 200,
+              "name": "종족",
+              "value": 14
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 4
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 5
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            }
+          ]
+        }
+      }
+    ],
+    "knownEvents": []
   }
 }

@@ -66,14 +66,125 @@
     "classes": [],
     "art": "art/CFM_336.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-134_M.psd:7fd69fce6a259514885399c3f1f7f799",
     "goldenMaterial": "CFM_336_PremiumCard.mat:6ad26994a5291fd4ebbcd8a4b1c2d2c6",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "겁먹은 조직원",
+      "type": "MINION",
+      "cardClass": "HUNTER",
+      "classes": [],
+      "rarity": "COMMON",
+      "collectible": true,
+      "cost": 3,
+      "text": "<b>죽음의 메아리:</b> 내 손에 있는 무작위 하수인에게 +2/+2를 부여합니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 3
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 3
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 3
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 3
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 1
+        },
+        {
+          "id": 217,
+          "name": "죽음의 메아리",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "attack": 3,
+      "health": 3,
+      "races": [],
+      "race": ""
+    },
+    "patches": [
+      {
+        "date": "2023-08-23",
+        "changes": {
+          "attack": 4,
+          "nativeTags": [
+            {
+              "id": 45,
+              "name": "생명력",
+              "value": 3
+            },
+            {
+              "id": 47,
+              "name": "공격력",
+              "value": 4
+            },
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 3
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 3
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 4
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 1
+            },
+            {
+              "id": 217,
+              "name": "죽음의 메아리",
+              "value": 1
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            }
+          ]
+        }
+      }
+    ],
+    "knownEvents": []
   }
 }

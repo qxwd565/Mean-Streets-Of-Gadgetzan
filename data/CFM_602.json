@@ -46,11 +46,6 @@
         "value": 1
       },
       {
-        "id": 441,
-        "name": "비취 골렘",
-        "value": 1
-      },
-      {
         "id": 443,
         "name": "선택",
         "value": 1
@@ -61,14 +56,72 @@
     "classes": [],
     "art": "art/CFM_602.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-162_S.psd:3f6418fd53443e549926026e29ee8ce4",
     "goldenMaterial": "CFM_602_PremiumCard.mat:cd06a67c8a696dd4cba228ab62f9f2b9",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "비취 우상",
+      "type": "SPELL",
+      "cardClass": "DRUID",
+      "classes": [],
+      "rarity": "RARE",
+      "collectible": true,
+      "cost": 1,
+      "text": "<b>선택 -</b> <b>비취 골렘</b>을 소환합니다. 또는<br></br>이 카드를 3장 복사하여 내 덱에 섞어 넣습니다.",
+      "nativeTags": [
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 1
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 2
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 5
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 3
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        },
+        {
+          "id": 443,
+          "name": "선택",
+          "value": 1
+        }
+      ],
+      "spellSchool": ""
+    },
+    "patches": [],
+    "knownEvents": [],
+    "tagReferences": {
+      "2016-12-02": [
+        {
+          "id": 441,
+          "name": "비취 골렘",
+          "value": 1
+        }
+      ]
+    }
   }
 }

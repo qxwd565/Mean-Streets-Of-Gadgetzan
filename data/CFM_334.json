@@ -46,14 +46,60 @@
     "classes": [],
     "art": "art/CFM_334.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-137_S.psd:784fda76e260bb14387cefc75dc28705",
     "goldenMaterial": "CFM_334_PremiumCard.mat:99d4c1b92ed474d4481eb475ed64e2b1",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "밀수업자의 상자",
+      "type": "SPELL",
+      "cardClass": "HUNTER",
+      "classes": [],
+      "rarity": "COMMON",
+      "collectible": true,
+      "cost": 1,
+      "text": "내 손에 있는 무작위 야수에게 +2/+2를 부여합니다.",
+      "nativeTags": [
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 3
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 5
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "spellSchool": ""
+    },
+    "patches": [
+      {
+        "date": "2023-08-23",
+        "changes": {
+          "cost": 0
+        }
+      }
+    ],
+    "knownEvents": []
   }
 }
