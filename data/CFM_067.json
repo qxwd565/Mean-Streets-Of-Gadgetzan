@@ -66,14 +66,76 @@
     "classes": [],
     "art": "art/CFM_067.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-037_M.psd:d293ae6be364f5341a0011c9ea1b01cc",
     "goldenMaterial": "CFM_067_PremiumCard.mat:4e97ce1c222c5ba4782273947c8e4185",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "호젠 치유사",
+      "type": "MINION",
+      "cardClass": "NEUTRAL",
+      "classes": [],
+      "rarity": "COMMON",
+      "collectible": true,
+      "cost": 4,
+      "text": "<b>전투의 함성:</b><br></br>하수인의 생명력을<br></br>모두 회복시킵니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 6
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 2
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 4
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 12
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 1
+        },
+        {
+          "id": 218,
+          "name": "전투의 함성",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "attack": 2,
+      "health": 6,
+      "races": [],
+      "race": ""
+    },
+    "patches": [],
+    "knownEvents": []
   }
 }

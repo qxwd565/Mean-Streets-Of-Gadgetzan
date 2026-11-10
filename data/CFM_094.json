@@ -16,7 +16,7 @@
     "durability": 0,
     "armor": 0,
     "flavor": "카자쿠스는 임프 일꾼들에게 지옥불꽃을 만들라고 밤낮을 닥달하지만 수요를 따라가기는 힘들어 보입니다.",
-    "spellSchool": "",
+    "spellSchool": "FEL",
     "portrait": "HS9-206_S.psd:4a2e7e316583bb242804aa981230acbf",
     "set": "GANGS",
     "nativeTags": [
@@ -56,21 +56,97 @@
     "classes": [],
     "art": "art/CFM_094.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "partially-verified",
-    "patches": [
-      {
-        "date": "2021-03-26",
-        "changes": {
-          "spellSchool": "FEL"
-        }
-      }
-    ]
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-206_S.psd:4a2e7e316583bb242804aa981230acbf",
     "goldenMaterial": "CFM_094_PremiumCard.mat:ea795c6eed5a63641bab8d4f4d5a06ce",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "지옥불꽃 물약",
+      "type": "SPELL",
+      "cardClass": "WARLOCK",
+      "classes": [],
+      "rarity": "RARE",
+      "collectible": true,
+      "cost": 6,
+      "text": "<b>모든</b> 캐릭터에게 피해를 $5 줍니다.",
+      "nativeTags": [
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 6
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 9
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 5
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 3
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "spellSchool": ""
+    },
+    "patches": [
+      {
+        "date": "2021-03-26",
+        "changes": {
+          "spellSchool": "FEL",
+          "nativeTags": [
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 6
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 9
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 5
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 3
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            },
+            {
+              "id": 1635,
+              "name": "주문 속성",
+              "value": 7
+            }
+          ]
+        }
+      }
+    ],
+    "knownEvents": []
   }
 }

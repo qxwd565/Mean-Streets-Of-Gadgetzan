@@ -66,29 +66,140 @@
         "value": 1
       }
     ],
-    "races": [],
-    "race": "",
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드",
     "classes": [],
     "art": "art/CFM_120.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "partially-verified",
-    "patches": [
-      {
-        "date": "2022-12-07",
-        "changes": {
-          "races": [
-            "UNDEAD"
-          ],
-          "race": "언데드"
-        }
-      }
-    ]
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-200_M.psd:cf3e678c1d502294ca83cff80fd81b53",
     "goldenMaterial": "CFM_120_PremiumCard.mat:95c1fafd030b2d64fa3901ced3a2e310",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "혼합물 전문가",
+      "type": "MINION",
+      "cardClass": "NEUTRAL",
+      "classes": [],
+      "rarity": "COMMON",
+      "collectible": true,
+      "cost": 1,
+      "text": "<b>죽음의 메아리:</b><br></br>각 영웅의 생명력을<br></br>#4씩 회복시킵니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 2
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 2
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 1
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 12
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 1
+        },
+        {
+          "id": 217,
+          "name": "죽음의 메아리",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "attack": 2,
+      "health": 2,
+      "races": [],
+      "race": ""
+    },
+    "patches": [
+      {
+        "date": "2022-11-30",
+        "changes": {
+          "races": [
+            "UNDEAD"
+          ],
+          "race": "언데드",
+          "nativeTags": [
+            {
+              "id": 45,
+              "name": "생명력",
+              "value": 2
+            },
+            {
+              "id": 47,
+              "name": "공격력",
+              "value": 2
+            },
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 1
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 12
+            },
+            {
+              "id": 200,
+              "name": "종족",
+              "value": 11
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 4
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 1
+            },
+            {
+              "id": 217,
+              "name": "죽음의 메아리",
+              "value": 1
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            }
+          ]
+        }
+      }
+    ],
+    "knownEvents": []
   }
 }

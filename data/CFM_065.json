@@ -16,7 +16,7 @@
     "durability": 0,
     "armor": 0,
     "flavor": "카자쿠스의 일급 비밀 요리법에 들어가는 일급 비밀 재료입니다.",
-    "spellSchool": "",
+    "spellSchool": "FIRE",
     "portrait": "HS9-015_S_VP.psd:a9cc79744bb1f024d9989ecbf99dcfde",
     "set": "GANGS",
     "nativeTags": [
@@ -56,21 +56,97 @@
     "classes": [],
     "art": "art/CFM_065.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "partially-verified",
-    "patches": [
-      {
-        "date": "2021-03-26",
-        "changes": {
-          "spellSchool": "FIRE"
-        }
-      }
-    ]
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-015_S_VP.psd:a9cc79744bb1f024d9989ecbf99dcfde",
     "goldenMaterial": "CFM_065_PremiumCard.mat:7a0e69c17ee4941468d8d175bf114772",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "화산 물약",
+      "type": "SPELL",
+      "cardClass": "MAGE",
+      "classes": [],
+      "rarity": "RARE",
+      "collectible": true,
+      "cost": 3,
+      "text": "<b>모든</b> 하수인에게 피해를 $2 줍니다.",
+      "nativeTags": [
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 3
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 4
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 5
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 3
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "spellSchool": ""
+    },
+    "patches": [
+      {
+        "date": "2021-03-26",
+        "changes": {
+          "spellSchool": "FIRE",
+          "nativeTags": [
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 3
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 4
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 5
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 3
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            },
+            {
+              "id": 1635,
+              "name": "주문 속성",
+              "value": 2
+            }
+          ]
+        }
+      }
+    ],
+    "knownEvents": []
   }
 }
