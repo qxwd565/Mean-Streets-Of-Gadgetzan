@@ -80,14 +80,90 @@
     ],
     "art": "art/CFM_853.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-046_M.psd:94c419ff50b8088408d1d4da0cc8dd0a",
     "goldenMaterial": "CFM_853_PremiumCard.mat:b41096df372212a4fb2df166b16d2728",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "험악한 거리 밀수업자",
+      "type": "MINION",
+      "cardClass": "NEUTRAL",
+      "classes": [
+        "HUNTER",
+        "PALADIN",
+        "WARRIOR"
+      ],
+      "rarity": "COMMON",
+      "collectible": true,
+      "cost": 3,
+      "text": "<b>전투의 함성:</b> 내 손에 있는 무작위 하수인에게 +1/+1을 부여합니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 4
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 2
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 3
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 12
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 1
+        },
+        {
+          "id": 218,
+          "name": "전투의 함성",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        },
+        {
+          "id": 476,
+          "name": "복수 직업",
+          "value": 532
+        },
+        {
+          "id": 482,
+          "name": "험악한 떡대들",
+          "value": 1
+        }
+      ],
+      "attack": 2,
+      "health": 4,
+      "races": [],
+      "race": ""
+    },
+    "patches": [],
+    "knownEvents": []
   }
 }

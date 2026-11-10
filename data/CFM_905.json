@@ -51,14 +51,58 @@
     "classes": [],
     "art": "art/CFM_905.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-013_S.psd:2a08c32befa3fbf48b8c7ee7450ee204",
     "goldenMaterial": "CFM_905_PremiumCard.mat:f2c7bc069a23313488f998001e438c77",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "신참 고용",
+      "type": "SPELL",
+      "cardClass": "PALADIN",
+      "classes": [],
+      "rarity": "EPIC",
+      "collectible": true,
+      "cost": 3,
+      "text": "내 덱에서 비용이 1인 하수인을 셋 뽑습니다.",
+      "nativeTags": [
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 3
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 5
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 5
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 4
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        }
+      ],
+      "spellSchool": ""
+    },
+    "patches": [],
+    "knownEvents": []
   }
 }

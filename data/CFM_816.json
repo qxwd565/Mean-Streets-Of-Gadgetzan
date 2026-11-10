@@ -81,14 +81,157 @@
     "classes": [],
     "art": "art/CFM_816.png",
     "releasedAt": "2016-12-02",
-    "releaseStatus": "verified",
-    "initialSpecStatus": "unverified",
-    "patches": []
+    "releaseStatus": "verified"
   },
   "artworkProvenance": {
     "source": "installed Hearthstone native assets",
     "portrait": "HS9-176_M.psd:5eaf129ca21741549a5a1e08a729739b",
     "goldenMaterial": "CFM_816_PremiumCard.mat:c0d2fcf3f5ba5ce4b815a5b641a5cbbf",
     "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "토깽 사부",
+      "type": "MINION",
+      "cardClass": "DRUID",
+      "classes": [],
+      "rarity": "RARE",
+      "collectible": true,
+      "cost": 5,
+      "text": "<b>전투의 함성:</b> 아군 야수에게 +2/+2을 부여합니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 5
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 4
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 5
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 2
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 3
+        },
+        {
+          "id": 218,
+          "name": "전투의 함성",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        },
+        {
+          "id": 1429,
+          "name": "전장 황금 하수인 ID",
+          "value": 59512
+        },
+        {
+          "id": 1440,
+          "name": "선술집 단계",
+          "value": 4
+        },
+        {
+          "id": 1594,
+          "name": "전장 야수 분류",
+          "value": 1
+        }
+      ],
+      "attack": 4,
+      "health": 5,
+      "races": [],
+      "race": ""
+    },
+    "patches": [
+      {
+        "date": "2023-08-23",
+        "changes": {
+          "cost": 4,
+          "health": 4,
+          "text": "<b>전투의 함성:</b> 아군 야수에게 +3/+3을 부여합니다.",
+          "nativeTags": [
+            {
+              "id": 45,
+              "name": "생명력",
+              "value": 4
+            },
+            {
+              "id": 47,
+              "name": "공격력",
+              "value": 4
+            },
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 4
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 2
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 4
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 3
+            },
+            {
+              "id": 218,
+              "name": "전투의 함성",
+              "value": 1
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            },
+            {
+              "id": 1429,
+              "name": "전장 황금 하수인 ID",
+              "value": 59512
+            },
+            {
+              "id": 1440,
+              "name": "선술집 단계",
+              "value": 4
+            },
+            {
+              "id": 1594,
+              "name": "전장 야수 분류",
+              "value": 1
+            }
+          ]
+        }
+      }
+    ],
+    "knownEvents": []
   }
 }
