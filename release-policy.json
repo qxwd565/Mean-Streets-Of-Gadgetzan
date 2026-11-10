@@ -1,0 +1,239 @@
+{
+  "schema": 1,
+  "timezone": "Asia/Seoul",
+  "set": "Mean Streets Of Gadgetzan",
+  "default": {
+    "date": "2016-12-02",
+    "status": "verified"
+  },
+  "cards": {
+    "CFM_308a": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_308b": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_310t": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_315t": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_316t": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_324t": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_337t": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_602a": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_602b": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_606t": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621_m2": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621_m3": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621_m4": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621_m5": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t10": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t11": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t12": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t13": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t14": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t15": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t16": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t17": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t18": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t19": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t2": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t20": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t21": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t22": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t23": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t24": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t25": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t26": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t27": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t28": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t29": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t3": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t30": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t31": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t32": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t33": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t37": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t38": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t39": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t4": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t5": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t6": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t8": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_621t9": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_648t": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_668t": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_668t2": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_712_t01": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_712_t04": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_712_t07": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    },
+    "CFM_712_t20": {
+      "date": "2016-12-02",
+      "status": "estimated"
+    }
+  },
+  "sources": {
+    "2016-12-02": "https://hearthstone.blizzard.com/ko-kr/news/20382066"
+  },
+  "notes": "Release date is verified for collectible cards. Tokens are provisionally dated to their parent expansion pending their individual first-playable dates."
+}
