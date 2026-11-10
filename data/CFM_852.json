@@ -1,1 +1,111 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_852","dbfId":40742,"name":"비취 연꽃 요원","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":3,"text":"<b>전투의 함성:</b> 드루이드, 도적, 주술사 카드를 <b>발견</b>합니다.","attack":3,"health":3,"durability":0,"armor":0,"flavor":"할 일이 없으면 그냥 서 있습니다. 그러기만 해도 멋있거든요.","spellSchool":"","portrait":"HS9-072_M.psd:56635cddf75aa1d43960b8bd75f173a4","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":476,"name":"복수 직업","value":194},{"id":483,"name":"비취 연꽃","value":1},{"id":1342,"name":"발견 시각 효과","value":1}],"races":[],"race":"","classes":["DRUID","ROGUE","SHAMAN"],"art":"art/CFM_852.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-072_M.psd:56635cddf75aa1d43960b8bd75f173a4","goldenMaterial":"CFM_852_PremiumCard.mat:4c41d32af3450f44d88acb6c5712d255","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_852",
+    "dbfId": 40742,
+    "name": "비취 연꽃 요원",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 드루이드, 도적, 주술사 카드를 <b>발견</b>합니다.",
+    "attack": 5,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "할 일이 없으면 그냥 서 있습니다. 그러기만 해도 멋있거든요.",
+    "spellSchool": "",
+    "portrait": "HS9-072_M.psd:56635cddf75aa1d43960b8bd75f173a4",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 194
+      },
+      {
+        "id": 483,
+        "name": "비취 연꽃",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "DRUID",
+      "ROGUE",
+      "SHAMAN"
+    ],
+    "art": "art/CFM_852.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "partially-verified",
+    "patches": [
+      {
+        "date": "2023-08-23",
+        "changes": {
+          "cost": 3,
+          "attack": 3
+        }
+      }
+    ]
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-072_M.psd:56635cddf75aa1d43960b8bd75f173a4",
+    "goldenMaterial": "CFM_852_PremiumCard.mat:4c41d32af3450f44d88acb6c5712d255",
+    "goldenAnimation": ""
+  }
+}

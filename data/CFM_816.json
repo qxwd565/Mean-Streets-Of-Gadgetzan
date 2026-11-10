@@ -1,1 +1,94 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_816","dbfId":40641,"name":"토깽 사부","type":"MINION","cardClass":"DRUID","rarity":"RARE","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> 아군 야수에게 +3/+3을 부여합니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"당근을 체험하시오.","spellSchool":"","portrait":"HS9-176_M.psd:5eaf129ca21741549a5a1e08a729739b","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1429,"name":"전장 황금 하수인 ID","value":59512},{"id":1440,"name":"선술집 단계","value":4},{"id":1594,"name":"전장 야수 분류","value":1}],"races":[],"race":"","classes":[],"art":"art/CFM_816.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-176_M.psd:5eaf129ca21741549a5a1e08a729739b","goldenMaterial":"CFM_816_PremiumCard.mat:c0d2fcf3f5ba5ce4b815a5b641a5cbbf","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_816",
+    "dbfId": 40641,
+    "name": "토깽 사부",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 아군 야수에게 +3/+3을 부여합니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "당근을 체험하시오.",
+    "spellSchool": "",
+    "portrait": "HS9-176_M.psd:5eaf129ca21741549a5a1e08a729739b",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1429,
+        "name": "전장 황금 하수인 ID",
+        "value": 59512
+      },
+      {
+        "id": 1440,
+        "name": "선술집 단계",
+        "value": 4
+      },
+      {
+        "id": 1594,
+        "name": "전장 야수 분류",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_816.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-176_M.psd:5eaf129ca21741549a5a1e08a729739b",
+    "goldenMaterial": "CFM_816_PremiumCard.mat:c0d2fcf3f5ba5ce4b815a5b641a5cbbf",
+    "goldenAnimation": ""
+  }
+}
