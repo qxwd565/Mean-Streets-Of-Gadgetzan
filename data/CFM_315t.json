@@ -1,1 +1,85 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_315t","dbfId":40425,"name":"얼룩고양이","type":"MINION","cardClass":"HUNTER","collectible":false,"cost":1,"text":"","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS9-155_M.psd:62cd5a85f75e7f14fbc18f910d9c8e44","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":330,"name":"효과 생성 시각 효과","value":1},{"id":331,"name":"효과 지속 시각 효과","value":1},{"id":1584,"name":"게임 태그 1584","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/CFM_315t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-155_M.psd:62cd5a85f75e7f14fbc18f910d9c8e44","goldenMaterial":"CFM_315t_PremiumCard.mat:c5cd84cd67ee21140963029e52b011d2","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_315t",
+    "dbfId": 40425,
+    "name": "얼룩고양이",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS9-155_M.psd:62cd5a85f75e7f14fbc18f910d9c8e44",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 1
+      },
+      {
+        "id": 1584,
+        "name": "게임 태그 1584",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/CFM_315t.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "estimated",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-155_M.psd:62cd5a85f75e7f14fbc18f910d9c8e44",
+    "goldenMaterial": "CFM_315t_PremiumCard.mat:c5cd84cd67ee21140963029e52b011d2",
+    "goldenAnimation": ""
+  }
+}

@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_305","dbfId":40371,"name":"밀수업자의 일상","type":"SPELL","cardClass":"PALADIN","rarity":"COMMON","collectible":true,"cost":1,"text":"내 손에 있는 모든 하수인에게 +1/+1을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"가젯잔 역사상 가장 유명한 사건 중 하나는 경관 샐리가 불법으로 생선을 밀수하고 있던 험악한 떡대들 패거리 하나를 홀로 상대한 것입니다.","spellSchool":"","portrait":"HS9-001_S.psd:8aea0e35278e1574a8ed255ec3d37c74","set":"GANGS","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":5},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":251,"name":"게임 태그 251","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/CFM_305.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-001_S.psd:8aea0e35278e1574a8ed255ec3d37c74","goldenMaterial":"CFM_305_PremiumCard.mat:4cebe612a96083a4aa15c6178c1e0d05","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_305",
+    "dbfId": 40371,
+    "name": "밀수업자의 일상",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "내 손에 있는 모든 하수인에게 +1/+1을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "가젯잔 역사상 가장 유명한 사건 중 하나는 경관 샐리가 불법으로 생선을 밀수하고 있던 험악한 떡대들 패거리 하나를 홀로 상대한 것입니다.",
+    "spellSchool": "",
+    "portrait": "HS9-001_S.psd:8aea0e35278e1574a8ed255ec3d37c74",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 251,
+        "name": "게임 태그 251",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_305.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-001_S.psd:8aea0e35278e1574a8ed255ec3d37c74",
+    "goldenMaterial": "CFM_305_PremiumCard.mat:4cebe612a96083a4aa15c6178c1e0d05",
+    "goldenAnimation": ""
+  }
+}

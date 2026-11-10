@@ -1,1 +1,94 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_120","dbfId":41566,"name":"혼합물 전문가","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":1,"text":"<b>죽음의 메아리:</b>\n각 영웅의 생명력을\n#4씩 회복시킵니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"가장 잘 어울리는 조합은 콜라랑 라임이라고 하더군요.","spellSchool":"","portrait":"HS9-200_M.psd:cf3e678c1d502294ca83cff80fd81b53","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["UNDEAD"],"race":"언데드","classes":[],"art":"art/CFM_120.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-200_M.psd:cf3e678c1d502294ca83cff80fd81b53","goldenMaterial":"CFM_120_PremiumCard.mat:95c1fafd030b2d64fa3901ced3a2e310","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_120",
+    "dbfId": 41566,
+    "name": "혼합물 전문가",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>죽음의 메아리:</b><br></br>각 영웅의 생명력을<br></br>#4씩 회복시킵니다.",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "가장 잘 어울리는 조합은 콜라랑 라임이라고 하더군요.",
+    "spellSchool": "",
+    "portrait": "HS9-200_M.psd:cf3e678c1d502294ca83cff80fd81b53",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_120.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "partially-verified",
+    "patches": [
+      {
+        "date": "2022-12-07",
+        "changes": {
+          "races": [
+            "UNDEAD"
+          ],
+          "race": "언데드"
+        }
+      }
+    ]
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-200_M.psd:cf3e678c1d502294ca83cff80fd81b53",
+    "goldenMaterial": "CFM_120_PremiumCard.mat:95c1fafd030b2d64fa3901ced3a2e310",
+    "goldenAnimation": ""
+  }
+}

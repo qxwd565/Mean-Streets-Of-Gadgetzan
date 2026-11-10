@@ -1,1 +1,91 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_095","dbfId":40549,"name":"땅굴 족제비","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":1,"text":"<b>죽음의 메아리:</b> 이 하수인을 상대편의 덱에 섞어 넣습니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"가젯잔 제1은행의 바닥이 강철로 된 건 다 이유가 있습니다.","spellSchool":"","portrait":"HS3-054_M.psd:12db5a60893e61443ac328862295a4d9","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":542,"name":"게임 태그 542","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/CFM_095.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS3-054_M.psd:12db5a60893e61443ac328862295a4d9","goldenMaterial":"CFM_095_PremiumCard.mat:9a0a4f84200737c4d8fb1c81a998d3b3","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_095",
+    "dbfId": 40549,
+    "name": "땅굴 족제비",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>죽음의 메아리:</b> 이 하수인을 상대편의 덱에 섞어 넣습니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "가젯잔 제1은행의 바닥이 강철로 된 건 다 이유가 있습니다.",
+    "spellSchool": "",
+    "portrait": "HS3-054_M.psd:12db5a60893e61443ac328862295a4d9",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 542,
+        "name": "게임 태그 542",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/CFM_095.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS3-054_M.psd:12db5a60893e61443ac328862295a4d9",
+    "goldenMaterial": "CFM_095_PremiumCard.mat:9a0a4f84200737c4d8fb1c81a998d3b3",
+    "goldenAnimation": ""
+  }
+}

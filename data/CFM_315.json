@@ -1,1 +1,101 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_315","dbfId":40426,"name":"길고양이","type":"MINION","cardClass":"HUNTER","rarity":"COMMON","collectible":true,"cost":1,"text":"<b>전투의 함성:</b> 1/1 고양이를 소환합니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"가젯잔에서 이름을 날리려면 고양이라도 멋을 부릴 줄 알아야 한답니다.","spellSchool":"","portrait":"HS9-154_M.psd:cd5d1aaa8a9b9a842ad15c2b2d25e6b8","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":40425},{"id":1584,"name":"게임 태그 1584","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/CFM_315.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-154_M.psd:cd5d1aaa8a9b9a842ad15c2b2d25e6b8","goldenMaterial":"CFM_315_PremiumCard.mat:688e8d3e264a55640a6a35840d762b4e","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_315",
+    "dbfId": 40426,
+    "name": "길고양이",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>전투의 함성:</b> 1/1 고양이를 소환합니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "가젯잔에서 이름을 날리려면 고양이라도 멋을 부릴 줄 알아야 한답니다.",
+    "spellSchool": "",
+    "portrait": "HS9-154_M.psd:cd5d1aaa8a9b9a842ad15c2b2d25e6b8",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 40425
+      },
+      {
+        "id": 1584,
+        "name": "게임 태그 1584",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/CFM_315.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-154_M.psd:cd5d1aaa8a9b9a842ad15c2b2d25e6b8",
+    "goldenMaterial": "CFM_315_PremiumCard.mat:688e8d3e264a55640a6a35840d762b4e",
+    "goldenAnimation": ""
+  }
+}
