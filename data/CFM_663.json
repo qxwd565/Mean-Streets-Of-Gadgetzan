@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_663","dbfId":40940,"name":"비밀결사 밀매자","type":"MINION","cardClass":"WARLOCK","rarity":"EPIC","collectible":true,"cost":6,"text":"내 턴이 끝날 때, 무작위 악마를 내 손으로 가져옵니다.","attack":6,"health":6,"durability":0,"armor":0,"flavor":"불법 마나 수정을 세계 곳곳에 보냅니다. 상자에는 '먹거리'라고만 써놨고요.","spellSchool":"","portrait":"HS9-115_M.psd:d57ac785412f6dc489bbf55c57edd89f","set":"GANGS","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/CFM_663.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-115_M.psd:d57ac785412f6dc489bbf55c57edd89f","goldenMaterial":"CFM_663_PremiumCard.mat:ab8a018e88374c34f85ecdbed0acb83c","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_663",
+    "dbfId": 40940,
+    "name": "비밀결사 밀매자",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 6,
+    "text": "내 턴이 끝날 때, 무작위 악마를 내 손으로 가져옵니다.",
+    "attack": 6,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "불법 마나 수정을 세계 곳곳에 보냅니다. 상자에는 '먹거리'라고만 써놨고요.",
+    "spellSchool": "",
+    "portrait": "HS9-115_M.psd:d57ac785412f6dc489bbf55c57edd89f",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_663.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-115_M.psd:d57ac785412f6dc489bbf55c57edd89f",
+    "goldenMaterial": "CFM_663_PremiumCard.mat:ab8a018e88374c34f85ecdbed0acb83c",
+    "goldenAnimation": ""
+  }
+}
