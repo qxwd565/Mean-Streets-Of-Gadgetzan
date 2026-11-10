@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_064","dbfId":40294,"name":"탐욕스러운 회계사","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":3,"text":"내 손에 이 카드가 있으면, 내가 <b>전투의 함성</b> 하수인을 소환할 때마다 +1/+1을 얻습니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"어차피 범죄로 생긴 돈, 좀 가로채도 상관 없잖습니까?","spellSchool":"","portrait":"HS9-148_M.psd:3d2e3e45e00a44547be06886d3dbb0b8","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/CFM_064.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-148_M.psd:3d2e3e45e00a44547be06886d3dbb0b8","goldenMaterial":"CFM_064_PremiumCard.mat:b9a809c1cfac6ab41b730375b38177c1","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_064",
+    "dbfId": 40294,
+    "name": "탐욕스러운 회계사",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 3,
+    "text": "내 손에 이 카드가 있으면, 내가 <b>전투의 함성</b> 하수인을 소환할 때마다 +1/+1을 얻습니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "어차피 범죄로 생긴 돈, 좀 가로채도 상관 없잖습니까?",
+    "spellSchool": "",
+    "portrait": "HS9-148_M.psd:3d2e3e45e00a44547be06886d3dbb0b8",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_064.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-148_M.psd:3d2e3e45e00a44547be06886d3dbb0b8",
+    "goldenMaterial": "CFM_064_PremiumCard.mat:b9a809c1cfac6ab41b730375b38177c1",
+    "goldenAnimation": ""
+  }
+}
