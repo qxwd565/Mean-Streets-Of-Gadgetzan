@@ -72,17 +72,97 @@
       }
     ],
     "races": [
+      "NAGA",
       "PIRATE"
     ],
-    "race": "해적",
+    "race": "나가, 해적",
     "classes": [],
     "art": "art/CFM_651.png",
     "releasedAt": "2016-12-02",
+    "releaseStatus": "verified"
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-053_M.psd:58cfc791fd1b2634eb3381edd06ca56f",
+    "goldenMaterial": "CFM_651_PremiumCard.mat:d2f0ee551f2d0af49854e8781d5b1401",
+    "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
     "releaseStatus": "verified",
-    "initialSpecStatus": "partially-verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "나가 바다약탈자",
+      "type": "MINION",
+      "cardClass": "NEUTRAL",
+      "classes": [],
+      "rarity": "COMMON",
+      "collectible": true,
+      "cost": 4,
+      "text": "<b>전투의 함성:</b><br></br>내 무기에 공격력을<br></br>+1 부여합니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 4
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 5
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 4
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 12
+        },
+        {
+          "id": 200,
+          "name": "종족",
+          "value": 23
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 1
+        },
+        {
+          "id": 218,
+          "name": "전투의 함성",
+          "value": 1
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        },
+        {
+          "id": 2553,
+          "name": "게임 태그 2553",
+          "value": 1
+        }
+      ],
+      "attack": 5,
+      "health": 4,
+      "races": [
+        "PIRATE"
+      ],
+      "race": "해적"
+    },
     "patches": [
       {
-        "date": "2022-04-13",
+        "date": "2022-11-30",
         "changes": {
           "races": [
             "NAGA",
@@ -91,12 +171,7 @@
           "race": "나가, 해적"
         }
       }
-    ]
-  },
-  "artworkProvenance": {
-    "source": "installed Hearthstone native assets",
-    "portrait": "HS9-053_M.psd:58cfc791fd1b2634eb3381edd06ca56f",
-    "goldenMaterial": "CFM_651_PremiumCard.mat:d2f0ee551f2d0af49854e8781d5b1401",
-    "goldenAnimation": ""
+    ],
+    "knownEvents": []
   }
 }

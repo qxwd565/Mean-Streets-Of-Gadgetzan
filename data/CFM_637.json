@@ -10,7 +10,7 @@
     "rarity": "LEGENDARY",
     "collectible": true,
     "cost": 1,
-    "text": "<b>돌진</b><br></br>내가 해적을 낸 후에,<br></br>이 하수인을 내 덱에서<br></br>소환합니다.",
+    "text": "내가 해적을 낸 후에,<br></br>이 하수인을 내 덱에서<br></br>소환합니다.",
     "attack": 1,
     "health": 1,
     "durability": 0,
@@ -82,19 +82,176 @@
       }
     ],
     "races": [
+      "DEMON",
       "PIRATE"
     ],
-    "race": "해적",
+    "race": "악마, 해적",
     "classes": [],
     "art": "art/CFM_637.png",
     "releasedAt": "2016-12-02",
+    "releaseStatus": "verified"
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-192_M.psd:f378ccad235c4f34e8fa827c6f8d8533",
+    "goldenMaterial": "CFM_637_PremiumCard.mat:a7f65d13d40c4254c89103610b5768df",
+    "goldenAnimation": ""
+  },
+  "timeline": {
+    "schema": 1,
+    "releasedAt": "2016-12-02",
     "releaseStatus": "verified",
-    "initialSpecStatus": "partially-verified",
+    "initialSpecStatus": "reconstructed",
+    "initialSpec": {
+      "name": "해적 패치스",
+      "type": "MINION",
+      "cardClass": "NEUTRAL",
+      "classes": [],
+      "rarity": "LEGENDARY",
+      "collectible": true,
+      "cost": 1,
+      "text": "<b>돌진</b><br></br>내가 해적을 낸 후에,<br></br>이 하수인을 내 덱에서<br></br>소환합니다.",
+      "nativeTags": [
+        {
+          "id": 45,
+          "name": "생명력",
+          "value": 1
+        },
+        {
+          "id": 47,
+          "name": "공격력",
+          "value": 1
+        },
+        {
+          "id": 48,
+          "name": "마나 비용",
+          "value": 1
+        },
+        {
+          "id": 114,
+          "name": "전설 속성",
+          "value": 1
+        },
+        {
+          "id": 199,
+          "name": "직업",
+          "value": 12
+        },
+        {
+          "id": 200,
+          "name": "종족",
+          "value": 23
+        },
+        {
+          "id": 202,
+          "name": "카드 유형",
+          "value": 4
+        },
+        {
+          "id": 203,
+          "name": "희귀도",
+          "value": 5
+        },
+        {
+          "id": 321,
+          "name": "수집 가능",
+          "value": 1
+        },
+        {
+          "id": 1932,
+          "name": "다이아몬드 카드 존재",
+          "value": 1
+        },
+        {
+          "id": 2537,
+          "name": "게임 태그 2537",
+          "value": 1
+        },
+        {
+          "id": 2589,
+          "name": "간판 카드 존재",
+          "value": 1
+        },
+        {
+          "id": 197,
+          "name": "돌진",
+          "value": 1
+        }
+      ],
+      "attack": 1,
+      "health": 1,
+      "races": [
+        "PIRATE"
+      ],
+      "race": "해적"
+    },
     "patches": [
       {
         "date": "2018-02-07",
         "changes": {
-          "text": "내가 해적을 낸 후에,<br></br>이 하수인을 내 덱에서<br></br>소환합니다."
+          "text": "내가 해적을 낸 후에,<br></br>이 하수인을 내 덱에서<br></br>소환합니다.",
+          "nativeTags": [
+            {
+              "id": 45,
+              "name": "생명력",
+              "value": 1
+            },
+            {
+              "id": 47,
+              "name": "공격력",
+              "value": 1
+            },
+            {
+              "id": 48,
+              "name": "마나 비용",
+              "value": 1
+            },
+            {
+              "id": 114,
+              "name": "전설 속성",
+              "value": 1
+            },
+            {
+              "id": 199,
+              "name": "직업",
+              "value": 12
+            },
+            {
+              "id": 200,
+              "name": "종족",
+              "value": 23
+            },
+            {
+              "id": 202,
+              "name": "카드 유형",
+              "value": 4
+            },
+            {
+              "id": 203,
+              "name": "희귀도",
+              "value": 5
+            },
+            {
+              "id": 321,
+              "name": "수집 가능",
+              "value": 1
+            },
+            {
+              "id": 1932,
+              "name": "다이아몬드 카드 존재",
+              "value": 1
+            },
+            {
+              "id": 2537,
+              "name": "게임 태그 2537",
+              "value": 1
+            },
+            {
+              "id": 2589,
+              "name": "간판 카드 존재",
+              "value": 1
+            }
+          ]
         }
       },
       {
@@ -107,12 +264,7 @@
           "race": "악마, 해적"
         }
       }
-    ]
-  },
-  "artworkProvenance": {
-    "source": "installed Hearthstone native assets",
-    "portrait": "HS9-192_M.psd:f378ccad235c4f34e8fa827c6f8d8533",
-    "goldenMaterial": "CFM_637_PremiumCard.mat:a7f65d13d40c4254c89103610b5768df",
-    "goldenAnimation": ""
+    ],
+    "knownEvents": []
   }
 }
