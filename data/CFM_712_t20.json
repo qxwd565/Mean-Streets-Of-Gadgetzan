@@ -70,6 +70,15 @@
     "initialSpecStatus": "pending-first-playable",
     "initialSpec": null,
     "patches": [],
-    "knownEvents": []
+    "knownEvents": [],
+    "tagReferences": {
+      "current": [
+        {
+          "id": 441,
+          "name": "비취 골렘",
+          "value": 1
+        }
+      ]
+    }
   }
 }

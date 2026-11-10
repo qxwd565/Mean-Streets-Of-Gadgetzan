@@ -60,6 +60,15 @@
     "initialSpecStatus": "pending-first-playable",
     "initialSpec": null,
     "patches": [],
-    "knownEvents": []
+    "knownEvents": [],
+    "tagReferences": {
+      "current": [
+        {
+          "id": 208,
+          "name": "빙결",
+          "value": 1
+        }
+      ]
+    }
   }
 }
