@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_656","dbfId":40928,"name":"뛰어난 수사관","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":5,"text":"<b>전투의 함성:</b>\n적 하수인들이\n<b>은신</b>을 잃습니다.","attack":4,"health":6,"durability":0,"armor":0,"flavor":"\"흠... 범인은 이 안에 있어. 누구냐고? 온몸이 까맣고 눈만 하얀 녀석을 찾으면 돼.\"","spellSchool":"","portrait":"HS9-031_M.psd:9aee861a60a20fa4ea0961fe1ab4b923","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":191,"name":"은신","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/CFM_656.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-031_M.psd:9aee861a60a20fa4ea0961fe1ab4b923","goldenMaterial":"CFM_656_PremiumCard.mat:919c56534562a6f4fbe9213284d02744","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_656",
+    "dbfId": 40928,
+    "name": "뛰어난 수사관",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b><br></br>적 하수인들이<br></br><b>은신</b>을 잃습니다.",
+    "attack": 4,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"흠... 범인은 이 안에 있어. 누구냐고? 온몸이 까맣고 눈만 하얀 녀석을 찾으면 돼.\"",
+    "spellSchool": "",
+    "portrait": "HS9-031_M.psd:9aee861a60a20fa4ea0961fe1ab4b923",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 191,
+        "name": "은신",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_656.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-031_M.psd:9aee861a60a20fa4ea0961fe1ab4b923",
+    "goldenMaterial": "CFM_656_PremiumCard.mat:919c56534562a6f4fbe9213284d02744",
+    "goldenAnimation": ""
+  }
+}

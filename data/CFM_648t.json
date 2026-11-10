@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_648t","dbfId":40495,"name":"\"작은 친구\"","type":"MINION","cardClass":"NEUTRAL","collectible":false,"cost":6,"text":"","attack":6,"health":6,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS9-008_M.psd:3f49eb2eb7458f748ac7f1a1d9c45cb3","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4}],"races":[],"race":"","classes":[],"art":"art/CFM_648t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-008_M.psd:3f49eb2eb7458f748ac7f1a1d9c45cb3","goldenMaterial":"CFM_648t_PremiumCard.mat:c6fc61119f76fb1409d5d6af968b36d1","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_648t",
+    "dbfId": 40495,
+    "name": "\"작은 친구\"",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 6,
+    "text": "",
+    "attack": 6,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS9-008_M.psd:3f49eb2eb7458f748ac7f1a1d9c45cb3",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_648t.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "estimated",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-008_M.psd:3f49eb2eb7458f748ac7f1a1d9c45cb3",
+    "goldenMaterial": "CFM_648t_PremiumCard.mat:c6fc61119f76fb1409d5d6af968b36d1",
+    "goldenAnimation": ""
+  }
+}

@@ -1,1 +1,84 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_648","dbfId":40494,"name":"범죄계 거물","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":6,"text":"<b>전투의 함성:</b>\n6/6 오우거를 소환합니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"\"오, 황금 전설 카드를 얻으셨군요? 아주 카드가 번쩍번쩍하네요. 거, 누가 마력 추출이라도 하면... 참 유감이겠군요?\"","spellSchool":"","portrait":"HS9-007_M.psd:f7a67aa309b25184190acd284ed8722b","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":40495}],"races":[],"race":"","classes":[],"art":"art/CFM_648.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-007_M.psd:f7a67aa309b25184190acd284ed8722b","goldenMaterial":"CFM_648_PremiumCard.mat:41fa0d192f9a905499e863a4882354e2","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_648",
+    "dbfId": 40494,
+    "name": "범죄계 거물",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>전투의 함성:</b><br></br>6/6 오우거를 소환합니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"오, 황금 전설 카드를 얻으셨군요? 아주 카드가 번쩍번쩍하네요. 거, 누가 마력 추출이라도 하면... 참 유감이겠군요?\"",
+    "spellSchool": "",
+    "portrait": "HS9-007_M.psd:f7a67aa309b25184190acd284ed8722b",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 40495
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_648.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-007_M.psd:f7a67aa309b25184190acd284ed8722b",
+    "goldenMaterial": "CFM_648_PremiumCard.mat:41fa0d192f9a905499e863a4882354e2",
+    "goldenAnimation": ""
+  }
+}

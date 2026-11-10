@@ -1,1 +1,110 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_649","dbfId":40496,"name":"비밀결사 급사","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":2,"text":"<b>전투의 함성:</b> 마법사, 사제, 흑마법사 카드를 <b>발견</b>합니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"하피 둥지 밑에 코도를 주차하고 무사할 거라 생각한 건 아니죠?","spellSchool":"","portrait":"HS9-102_M.psd:98d5fa566561d4840a921e19562a96b3","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":476,"name":"복수 직업","value":296},{"id":484,"name":"비밀결사","value":1},{"id":1342,"name":"발견 시각 효과","value":1}],"races":[],"race":"","classes":["MAGE","PRIEST","WARLOCK"],"art":"art/CFM_649.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-102_M.psd:98d5fa566561d4840a921e19562a96b3","goldenMaterial":"CFM_649_PremiumCard.mat:491228a31d00506408681d2512ddbdc5","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_649",
+    "dbfId": 40496,
+    "name": "비밀결사 급사",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 마법사, 사제, 흑마법사 카드를 <b>발견</b>합니다.",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "하피 둥지 밑에 코도를 주차하고 무사할 거라 생각한 건 아니죠?",
+    "spellSchool": "",
+    "portrait": "HS9-102_M.psd:98d5fa566561d4840a921e19562a96b3",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 296
+      },
+      {
+        "id": 484,
+        "name": "비밀결사",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "MAGE",
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "art": "art/CFM_649.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "partially-verified",
+    "patches": [
+      {
+        "date": "2023-08-23",
+        "changes": {
+          "cost": 2
+        }
+      }
+    ]
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-102_M.psd:98d5fa566561d4840a921e19562a96b3",
+    "goldenMaterial": "CFM_649_PremiumCard.mat:491228a31d00506408681d2512ddbdc5",
+    "goldenAnimation": ""
+  }
+}

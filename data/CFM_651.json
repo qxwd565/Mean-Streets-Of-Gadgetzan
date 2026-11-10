@@ -1,1 +1,102 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_651","dbfId":40889,"name":"나가 바다약탈자","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":4,"text":"<b>전투의 함성:</b>\n내 무기에 공격력을\n+1 부여합니다.","attack":5,"health":4,"durability":0,"armor":0,"flavor":"꼬리에 갈고리를 단 건 꽤 근사한 생각이긴 했습니다. 여기저기서 걸리적거리는 거만 빼면요.","spellSchool":"","portrait":"HS9-053_M.psd:58cfc791fd1b2634eb3381edd06ca56f","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":23},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2553,"name":"게임 태그 2553","value":1}],"races":["NAGA","PIRATE"],"race":"나가, 해적","classes":[],"art":"art/CFM_651.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-053_M.psd:58cfc791fd1b2634eb3381edd06ca56f","goldenMaterial":"CFM_651_PremiumCard.mat:d2f0ee551f2d0af49854e8781d5b1401","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_651",
+    "dbfId": 40889,
+    "name": "나가 바다약탈자",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b><br></br>내 무기에 공격력을<br></br>+1 부여합니다.",
+    "attack": 5,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "꼬리에 갈고리를 단 건 꽤 근사한 생각이긴 했습니다. 여기저기서 걸리적거리는 거만 빼면요.",
+    "spellSchool": "",
+    "portrait": "HS9-053_M.psd:58cfc791fd1b2634eb3381edd06ca56f",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 23
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2553,
+        "name": "게임 태그 2553",
+        "value": 1
+      }
+    ],
+    "races": [
+      "PIRATE"
+    ],
+    "race": "해적",
+    "classes": [],
+    "art": "art/CFM_651.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "partially-verified",
+    "patches": [
+      {
+        "date": "2022-04-13",
+        "changes": {
+          "races": [
+            "NAGA",
+            "PIRATE"
+          ],
+          "race": "나가, 해적"
+        }
+      }
+    ]
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-053_M.psd:58cfc791fd1b2634eb3381edd06ca56f",
+    "goldenMaterial": "CFM_651_PremiumCard.mat:d2f0ee551f2d0af49854e8781d5b1401",
+    "goldenAnimation": ""
+  }
+}

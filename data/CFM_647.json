@@ -1,1 +1,86 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_647","dbfId":40493,"name":"독침아가미 저격수","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>전투의 함성:</b>\n피해를 1 줍니다.","attack":2,"health":1,"durability":0,"armor":0,"flavor":"한 방이면 충분하다옳!","spellSchool":"","portrait":"HS9-191_M.psd:043fc35cd54a26f4897d30d4e8cd462e","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["MURLOC"],"race":"멀록","classes":[],"art":"art/CFM_647.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-191_M.psd:043fc35cd54a26f4897d30d4e8cd462e","goldenMaterial":"CFM_647_PremiumCard.mat:a7491dd5019c13446ba5d7a834ed2790","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_647",
+    "dbfId": 40493,
+    "name": "독침아가미 저격수",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b><br></br>피해를 1 줍니다.",
+    "attack": 2,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "한 방이면 충분하다옳!",
+    "spellSchool": "",
+    "portrait": "HS9-191_M.psd:043fc35cd54a26f4897d30d4e8cd462e",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MURLOC"
+    ],
+    "race": "멀록",
+    "classes": [],
+    "art": "art/CFM_647.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-191_M.psd:043fc35cd54a26f4897d30d4e8cd462e",
+    "goldenMaterial": "CFM_647_PremiumCard.mat:a7491dd5019c13446ba5d7a834ed2790",
+    "goldenAnimation": ""
+  }
+}

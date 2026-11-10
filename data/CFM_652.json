@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"CFM_652","dbfId":40906,"name":"덜떨어진 투사","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":5,"text":"<b>도발</b>\n상대편에게 하수인이\n셋 이상 있으면, 비용이\n(2) 감소합니다.","attack":4,"health":5,"durability":0,"armor":0,"flavor":"현기증 난단 말이에요. 빨리 하수인 깔아 주세요.","spellSchool":"","portrait":"HS9-146_M.psd:335fdaec494191a4086974065a4f18e3","set":"GANGS","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/CFM_652.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS9-146_M.psd:335fdaec494191a4086974065a4f18e3","goldenMaterial":"CFM_652_PremiumCard.mat:35601c3c19aa7174dbb44fe457ad3dc1","goldenAnimation":""}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "card": {
+    "id": "CFM_652",
+    "dbfId": 40906,
+    "name": "덜떨어진 투사",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>도발</b><br></br>상대편에게 하수인이<br></br>셋 이상 있으면, 비용이<br></br>(2) 감소합니다.",
+    "attack": 4,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "현기증 난단 말이에요. 빨리 하수인 깔아 주세요.",
+    "spellSchool": "",
+    "portrait": "HS9-146_M.psd:335fdaec494191a4086974065a4f18e3",
+    "set": "GANGS",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/CFM_652.png",
+    "releasedAt": "2016-12-02",
+    "releaseStatus": "verified",
+    "initialSpecStatus": "unverified",
+    "patches": []
+  },
+  "artworkProvenance": {
+    "source": "installed Hearthstone native assets",
+    "portrait": "HS9-146_M.psd:335fdaec494191a4086974065a4f18e3",
+    "goldenMaterial": "CFM_652_PremiumCard.mat:35601c3c19aa7174dbb44fe457ad3dc1",
+    "goldenAnimation": ""
+  }
+}
