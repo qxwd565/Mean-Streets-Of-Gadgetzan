@@ -87,5 +87,17 @@
     "CFM_712_t07",
     "CFM_712_t20"
   ],
-  "notes": "56 generated/choice cards have no verified first playable date. Do not infer 2016-12-02. CFM_606t has a confirmed 2017-07-11 race event, but its first playable date remains pending."
+  "notes": "56 generated/choice cards have no verified first playable date. Do not infer 2016-12-02. CFM_606t has a confirmed 2017-07-11 race event, but its first playable date remains pending.",
+  "historicalClientIdAudit": {
+    "checkedOn": "2026-11-14",
+    "source": "https://github.com/HearthSim/hsdata/blob/2155786e4175c66348b73037d3799c3fe96eeb6d/CardDefs.xml",
+    "sourceBuild": "7.0.0.15590",
+    "sourceCommit": "2155786e4175c66348b73037d3799c3fe96eeb6d",
+    "sourceBlobSha": "f35fc8b6c6a0bdc859b7a4bd4a459fc5a2bca070",
+    "pendingCardIdsFound": 56,
+    "matchingDbfIds": 56,
+    "changedOriginalNameOrTextComparedToCurrentCache": 15,
+    "numericTagDiscrepanciesComparedToCurrentCache": 11,
+    "caveat": "The 2016-11-29 client dump confirms native ID and original fields, not first in-game playability on the 2016-12-02 expansion launch. Pending status and unknown initial stats/patch dates remain until direct parent-child generation and first-playable evidence are audited. Do not promote modern cached text or numeric tags as historical originals."
+  }
 }
